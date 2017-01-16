@@ -1,0 +1,74 @@
+﻿---
+ID: "5602636b-e314-4f24-8140-3ba71b3f604e"
+Parent: "4fef4ce0-56d9-4d4b-92cd-3681aa5dfaf5"
+Template: "4fef4ce0-56d9-4d4b-92cd-3681aa5dfaf5"
+Path: /sitecore/templates/System/Path Analyzer/CampaignMap/__Standard Values
+DB: master
+SharedFields:
+- ID: "a87e94ef-d136-4fed-b69f-d69caac3ec8d"
+  Hint: MapItemType
+  Value: Sitecore.PathAnalyzer.Data.Maps.CampaignMapItem,Sitecore.PathAnalyzer
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104334Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>Denne oversigt viser den besøgendes oplevelse af kampagnen "$name".</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104809Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p><p>Diese Abbildung zeigt die Besuchererfahrung der "$Name" Kampagne.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140611T162731
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>This map shows visitor experience of the "$name" campaign.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: $name
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105214Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>このマップは "$name" キャンペーンのビジター エクスペリエンスを表します</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

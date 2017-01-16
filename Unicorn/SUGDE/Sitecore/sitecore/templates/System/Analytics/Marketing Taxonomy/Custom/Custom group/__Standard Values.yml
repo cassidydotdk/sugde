@@ -1,0 +1,25 @@
+﻿---
+ID: "0b3aac56-399a-44e7-9080-9eb5f89ae2f0"
+Parent: "3ae2c9e6-8000-40ee-9693-ed7baee50a66"
+Template: "3ae2c9e6-8000-40ee-9693-ed7baee50a66"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom group/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {3AE2C9E6-8000-40EE-9693-ED7BAEE50A66}
+    {68B0CF3C-9150-4DB7-ACAB-F626E59BCA6D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141031T092318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

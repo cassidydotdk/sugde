@@ -1,0 +1,105 @@
+﻿---
+ID: "6467edd3-cc8c-4734-bf71-ded7ae23b8af"
+Parent: "6cb27c33-3878-4659-85c4-65c20af2ccf1"
+Template: "cd35e9cc-8a38-4f29-ba95-dc1c89a4b48f"
+Path: "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Channel maps/Organic non-branded search"
+DB: master
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "e77d7895-e8af-4eee-8873-e610208ce6d6"
+  Hint: TargetChannel
+  Value: "{B979A670-5AAF-4E63-94AC-C3C3E5BFBE84}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Organisk ikke-branded søgning"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104336Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>Denne oversigt viser den besøgendes oplevelse af kanalen "Organisk ikke-brandet søgekanal".</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: "Organisk ikke-brandet søgekanal-kort"
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Organische Non-Branded Suche"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104812Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>Diese Karte zeigt Besuchererfahrungen des Kanals "Organischer Non-Branded Suchkanal".</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: "Organische non-branded Suchkanalkarte"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150701T221224Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>This map shows visitor experience of the "Organic Non-Branded Search Channel" channel.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: "Organic non-branded search channel map"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ブランド指定なしのオーガニック検索
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105217Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>このマップは "ブランド指定なしのオーガニック検索チャネル" チャネルの訪問者エクスペリエンスを表示します</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: オーガニック ノンブランド 検索 チャネル マップ

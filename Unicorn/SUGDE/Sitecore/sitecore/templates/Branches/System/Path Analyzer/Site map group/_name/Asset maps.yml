@@ -1,0 +1,101 @@
+﻿---
+ID: "5c5189a0-7b97-4255-8de1-892e781ddfc4"
+Parent: "f3cd0053-b3f0-41a9-8aba-8c0265093854"
+Template: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Asset maps
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {46DCDC71-1D91-48EA-9953-585AF256F40B}
+    {C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}
+- ID: "5b9f5881-8542-4aca-967b-2ab8ce815d07"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{59813F18-6E92-4A96-83A4-DAC68433C05A}">
+        <conditions>
+          <and
+            uid="822E28DB92544EC3830C45632EE351A5">
+            <condition
+              id="{FA93A013-4816-40CF-8462-5049DA97995E}"
+              uid="3A60A330A24F40348159A7239A0A92F1" />
+            <condition
+              id="{913A642D-9FE7-46BF-BE5C-DB31FB6C5602}"
+              uid="6772A936C6CA4BF1A9B58FFB27548711"
+              operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+              value="$name" />
+          </and>
+        </conditions>
+        <actions>
+          <action
+            id="{F0FDE44B-B200-416C-A048-C833D4106CA6}"
+            uid="EF51196FBAA24EE1A64508735002624A" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Aktivkort
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Assetkarten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140611T192512Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: アセット マップ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,48 @@
+﻿---
+ID: "18b02a1c-fd60-461a-a3f4-259634db5704"
+Parent: "036db470-1850-4848-a48a-0931f825b867"
+Template: "036db470-1850-4848-a48a-0931f825b867"
+Path: /sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B889DE68-77E0-432C-9786-DE61D129D3DF}
+    {69BEDDF2-EB93-4BE1-AC48-D065AF52E3A8}
+    {1068D8A1-1F0D-42FD-BB7C-4A5223460076}
+    {58DDBE34-DFDA-451F-B01D-7802B86C7CEA}
+    {10E23679-55DB-4059-B8F2-E417A2F78FCB}
+- ID: "39387566-6a7e-4c86-9e88-ad871b41c3fd"
+  Hint: Matcher Rule
+  Type: Rules
+  Value: <ruleset />
+- ID: "764c1eed-14cf-4fcd-a20b-375a145614b1"
+  Hint: Language Rule
+  Type: Rules
+  Value: <ruleset />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{C72C238F-018E-469E-9440-3EDD7420A8C8}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 00010101T000000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

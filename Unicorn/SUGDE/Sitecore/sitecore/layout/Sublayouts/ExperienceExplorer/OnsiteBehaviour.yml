@@ -1,0 +1,18 @@
+﻿---
+ID: "5988e00c-8f68-4175-b68a-0d538a513eeb"
+Parent: "f99dc233-e326-407e-a3a9-36956b5f5ca2"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Sublayouts/ExperienceExplorer/OnsiteBehaviour
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130116T134751
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

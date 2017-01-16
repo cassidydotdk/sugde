@@ -1,0 +1,47 @@
+﻿---
+ID: "544d3823-efc5-4460-984e-071ff4ab228a"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-google-display-network"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/544D3823EFC54460984E071FF4AB228A.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1d422ee1-44aa-46d5-8e6d-a8f10c60f724"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3BJREFUeNrsmk1oE1EQx5PUD6poYtCAX1QtCkYv1i8s6sUvUtBa2ypFqGhFEI2CWBBFExVPKqjxIlZEoSA9qBRaG6yVIigiKgrtQREtingxWpFWbdP4H5jCuKTZ3ewmu8EM/Mi8zXubmX3vzZtZ4kwkEo5cFpcjxyXnHRglG5FIZGwsFjsLtRa4bWBfL7jp9Xrrg8Hgb1UH2PigjR4wPcQg7CL9gJYlVGvTlVKrdQ+4beqAOx+F8g7kHfgfDjIp4XDYabVxsCGRtgNmi1rS6HQ67beEyOhh0ux7zxIHtBqdanx5uNWPJVSGZh3oy4oDRg2XcjcU6KZ7dfn9N1wu1+qM74GNp9ocm05HlZfng3OAnuQAGK1ym89gD+hoPr6hny40VVfH8fE8ozMwwlOnqX/Nxh8CRWAK2AZ6RL/voBLMBtNBC+g3HEYNGr8FNLAeAG3iuybwDDxigz3gGFhslyg0AVxh/anC+GF5D3aIdgm4lE5YdWXg6deAyax3pRj+AHQqxnn0OpGJGVgj9AKVvneETk7PzdoSShEupwl9jspt3ijahXpP6EzMwDehLwSTVIr2YRlQRCdNTmTCgSdCJ+PLU/QtVKQNPXpTEZfJy4fkOvgl2qFkS4NlLX/+4LNCc/Jn6gwopvgL2C3as0CUY74USg+OgG6wErwztR4wKI2AUoDzvKlXgU/cpo3rBwfBQ7CZZ8BhJwdIboH7oAqsBz6wF4zj7//wEhqyc0n5lU/lSp6FZkXU8eRaTewT+nhwNdccCCkyTUr6botlZWpRnxghhNbw+v4n5CWpBUjGgGJQyrXBUJLfrAAvORd6YXQGBjWEzFINSVYRP+2PHCapqFnOIZWWzTVF5JnHB1mxUQcuaHAioPI9vZ5/RZNI/oJdYAFv4q1gH58TyxTZqE85s1pSCadZNSwvoaPgDF9q5RCaqroqYKOrxLV1oB0lZdY38VJhPIXP7RpKwziv/bfi2gqrotBOoT/mWleLDIoKjmSiVQ4UCb1P51hZF3ywyoGfQl+ic+xMobdZ5UCL0CkcntQxdj9/XtablZrpAGWg7aJ9gt80zEgxpoRfWtEh1wEOW5mNxjnON4qzIsgvuKL8iqWXf3Mq91nE/S6Cek7wLE2nqR4u49BYx3vBzelCRZK+DXx4dqVdTOX/7JF3wJj8FWAAChj5hYlGN+UAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 974
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Google display network

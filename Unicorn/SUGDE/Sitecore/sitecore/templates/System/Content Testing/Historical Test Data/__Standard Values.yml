@@ -1,0 +1,25 @@
+﻿---
+ID: "6f6530cd-5820-400a-bf79-aa1d4381a009"
+Parent: "e4100ba5-a3ca-440f-bac2-c0cb325333c7"
+Template: "e4100ba5-a3ca-440f-bac2-c0cb325333c7"
+Path: /sitecore/templates/System/Content Testing/Historical Test Data/__Standard Values
+DB: master
+SharedFields:
+- ID: "6fdbf936-0180-4ccd-9893-985df171ab68"
+  Hint: Experiences
+  Value: 0
+- ID: "ab130771-65e6-47d9-aca1-febf2d6b2aed"
+  Hint: Test Duration
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150716T094325Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

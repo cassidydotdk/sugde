@@ -1,0 +1,29 @@
+﻿---
+ID: "4a2f409e-ac3b-4521-83e8-75c1428905cf"
+Parent: "c4d09683-5eb3-4d8e-bf9e-13cb41c197b5"
+Template: "c4d09683-5eb3-4d8e-bf9e-13cb41c197b5"
+Path: /sitecore/templates/List Manager/List Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C4D09683-5EB3-4D8E-BF9E-13CB41C197B5}
+    {8288D4EA-6576-486F-AAEC-4680329A2D5C}
+    {C0CAF698-8A42-4B66-9EAF-7D442B46F722}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140408T084918
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

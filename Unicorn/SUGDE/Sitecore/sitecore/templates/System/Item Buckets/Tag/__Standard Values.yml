@@ -1,0 +1,23 @@
+﻿---
+ID: "dc3317d0-5edf-4bc2-824f-821a469a1a23"
+Parent: "68ba23fd-8270-4675-97ea-4fafc7cf3ab9"
+Template: "68ba23fd-8270-4675-97ea-4fafc7cf3ab9"
+Path: /sitecore/templates/System/Item Buckets/Tag/__Standard Values
+DB: master
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130109T215200
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

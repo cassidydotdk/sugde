@@ -1,0 +1,106 @@
+﻿---
+ID: "aeb09003-5fef-4f5e-8b49-aea59f0701bd"
+Parent: "d012a738-7871-40df-ab6e-ea71f7137bed"
+Template: "bab68954-d9e6-464d-88e5-c207cb392aa7"
+Path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Sandra
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: other/16x16/woman2.png
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: 
+- ID: "efa537ec-d9d1-4a38-bfa4-323713813045"
+  Hint: Image
+  Value: |
+    <image mediaid="{5B04FEB9-FF85-4078-A577-A8830D1C7F44}" mediapath="/Experience Explorer/Presets/Sandra 128x128" src="~/media/5B04FEB9FF854078A577A8830D1C7F44.ashx" />
+Languages:
+- Language: da
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Girls Weekend
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Sandra
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sandra
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104347Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Mädchen Wochenende
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Sandra
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sandra
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Fields:
+  - ID: "230d7d68-3794-45de-be8a-336ef1048807"
+    Hint: Description
+    Value: 
+  - ID: "4200266b-3fd1-4ef8-8179-04d734ec4e68"
+    Hint: Age
+    Value: 
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Girls Weekend
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Sandra
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130108T071300
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: ガールズ ウィークエンド
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: サンドラ
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: サンドラ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

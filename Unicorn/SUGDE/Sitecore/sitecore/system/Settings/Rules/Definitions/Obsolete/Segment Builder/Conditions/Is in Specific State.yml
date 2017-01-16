@@ -1,0 +1,79 @@
+﻿---
+ID: "40e4c4a7-8d53-49c5-87ac-3dba7dd91d33"
+Parent: "0cdead62-a62c-4e87-88fb-d1078375ef11"
+Template: "f0d16eee-3a05-4e43-a082-795a32b873c0"
+Path: /sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Is in Specific State
+DB: master
+SharedFields:
+- ID: "ab51c8b2-f0e1-4471-9aae-cc080d774923"
+  Hint: Type
+  Value: Sitecore.Analytics.Rules.SegmentBuilder.Conditions.HasAutomationStateCondition,Sitecore.SegmentBuilder
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Har automatiseringsfase
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "hvor en besøgende er i fasen [automationstateid,Tree,root={4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}&selection={8CE2707A-3742-4A89-933B-065E5BE02BC9},specific] i en engagementsplan"
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hat Automatisierungsstatus
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "wo ein Besucher sich im [automationstateid,Tree,root={4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}&selection={8CE2707A-3742-4A89-933B-065E5BE02BC9},spezifischen] Status eines Engagementplans befindet"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090202T181635
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "where a contact is in the [automationstateid,Tree,root={4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}&selection={8CE2707A-3742-4A89-933B-065E5BE02BC9},specific] state in the engagement plan"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: オートメーション状態あり
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "条件： （オートメーション状態） ビジターがエンゲージメント プランの [automationstateid,Tree,root={4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}&selection={8CE2707A-3742-4A89-933B-065E5BE02BC9},特定の] 状態にいる場合"

@@ -1,0 +1,22 @@
+﻿---
+ID: "479583c9-9235-436f-8540-485e71e68ee5"
+Parent: "c0caf698-8a42-4b66-9eaf-7d442b46f722"
+Template: "c0caf698-8a42-4b66-9eaf-7d442b46f722"
+Path: /sitecore/templates/List Manager/Segmented List/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/32x32/cubes.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140414T103933
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

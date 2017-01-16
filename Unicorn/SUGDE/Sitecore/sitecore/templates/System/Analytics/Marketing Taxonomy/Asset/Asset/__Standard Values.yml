@@ -1,0 +1,22 @@
+﻿---
+ID: "92ede7d3-e250-43c1-b7cd-e647cab7a519"
+Parent: "9519a7d0-c385-437e-bd5c-fa3df9c07335"
+Template: "9519a7d0-c385-437e-bd5c-fa3df9c07335"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: business/16x16/paperclip.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141029T204759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

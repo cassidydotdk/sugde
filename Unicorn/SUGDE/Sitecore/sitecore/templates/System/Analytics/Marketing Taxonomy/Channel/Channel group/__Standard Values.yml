@@ -1,0 +1,29 @@
+﻿---
+ID: "0ad582d7-dc44-43c6-a60a-cfc133c2c33c"
+Parent: "3ba3d006-1648-4cc7-8d19-ffadfdc46d0f"
+Template: "3ba3d006-1648-4cc7-8d19-ffadfdc46d0f"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel group/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/cubes_green.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{3B4FDE65-16A8-491D-BF15-99CE83CF3506}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140717T141239Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

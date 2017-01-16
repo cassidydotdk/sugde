@@ -1,0 +1,25 @@
+﻿---
+ID: "9fddf7b8-f667-410e-a2b9-891fa829fe5e"
+Parent: "3e8c8df4-0bf5-4fe8-800e-00cfc2e87d19"
+Template: "3e8c8df4-0bf5-4fe8-800e-00cfc2e87d19"
+Path: /sitecore/templates/System/Social/Klout/Klout Application/__Standard Values
+DB: master
+SharedFields:
+- ID: "059acd46-c0e3-4916-aaf1-4cce88feabec"
+  Hint: Calls per second
+  Value: 10
+- ID: "f16c6aa7-1e50-4685-b676-b650f1980083"
+  Hint: Calls per day
+  Value: 20000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140523T130605
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

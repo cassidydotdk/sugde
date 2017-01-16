@@ -1,0 +1,47 @@
+﻿---
+ID: "78d8d914-51c8-41f3-8424-021262f148b8"
+Parent: "e45ec7b0-94dd-405c-876a-96e0844fe1ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Images/Social/Connector/Twitter
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/78D8D91451C841F38424021262F148B8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7272d404-8d8d-4527-bc82-8188b32acb56"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAIAAABvFaqvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjEwMPRyoQAAAUNJREFUOE9jYFjzljqIOqYAXTNqEOEQQFPBtf4d01r0eORY/67u6rdDr3+vevzTeO9HgY3vzPd9RDcajZ9x7sv0uz+YUc0C6v8PAz/+/n/2/W/4ic/o9qEZVHv1G1DL3le/1HZ+gEjJbH0PNwXC+PX3f9zpLwRcZLbv4z+w6t///m989jPt7JeE01/QDAI6EEuQoQn5H/t8+t1vNJ1oXKDfCRvkfvgTflOAskBnEjYIqKL9xvc/EO9hA8AAktryniiDnA99uv/1Ly6D5j3A5i+seY1l7dsljxDxjWwiMOLFNmNzDp5MW3jxK5oHX//8Z7QHIx3CSyFk3zKueRt8/PPUuz+ufvyD5rWdL34pbMfhFohZaMEGTK8uhz5NuP1998tfx97+3vr8V9uNb6Z7cTsEq4sI50w8xSlFmpHNHTWIYAgAABMJIgVohtw7AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 468
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 24 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140917T103638Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Twitter

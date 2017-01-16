@@ -1,0 +1,15 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SUGDE - Hardcoded title tags is just how we roll! ;-)</title>
+    @Html.Sitecore().VisitorIdentification()
+</head>
+<body>
+	@Html.Sitecore().Placeholder("main")
+</body>
+</html>

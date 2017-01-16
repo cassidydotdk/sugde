@@ -1,0 +1,47 @@
+﻿---
+ID: "2f386c96-ded5-4842-a969-5fe2ab6e1a46"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Poll
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2F386C96DED54842A9695FE2AB6E1A46.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d089ad36-5b7a-4793-9510-d0372c8b72ee"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1541
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104936
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Poll

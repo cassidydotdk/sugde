@@ -1,0 +1,37 @@
+﻿---
+ID: "44868937-24b3-4ba1-b99b-545ee692ccd8"
+Parent: "696fac52-92b8-4ff0-9f9e-e8b997110469"
+Template: "a90f48c4-4d4f-41d7-8497-070a9a50304e"
+Path: /sitecore/system/Settings/Content Testing/Report Queries/VisitorCount By TestId And TestCombination
+DB: master
+SharedFields:
+- ID: "72b1c86f-ae19-4534-abcf-0692378d41cf"
+  Hint: Data Source
+  Value: reporting
+- ID: "a61cc636-3272-4fb6-bcf9-762940047a78"
+  Hint: Query
+  Value: |
+    WITH CTE_PageViews (TestCombination, ContactId)
+    AS
+    (
+    	SELECT DISTINCT TestCombination, ContactId
+    	FROM Fact_PageViews 
+    	WHERE TestCombination != @TestCombination
+    	AND TestId = @TestId
+    )
+    SELECT TCM.ClusterId, CPV.TestCombination, COUNT(TCM.ContactId) AS VisitorCount
+    FROM [Testing_ClusterMembers] TCM 
+    INNER JOIN CTE_PageViews CPV ON CPV.ContactId = TCM.ContactId
+    GROUP BY TCM.ClusterId, CPV.TestCombination
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151223T030805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

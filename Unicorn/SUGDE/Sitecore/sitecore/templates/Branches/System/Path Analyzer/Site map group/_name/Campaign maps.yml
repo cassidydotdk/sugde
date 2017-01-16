@@ -1,0 +1,101 @@
+﻿---
+ID: "86786573-2838-42b9-871a-a163d927c80e"
+Parent: "f3cd0053-b3f0-41a9-8aba-8c0265093854"
+Template: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Campaign maps
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {4FEF4CE0-56D9-4D4B-92CD-3681AA5DFAF5}
+    {C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}
+- ID: "5b9f5881-8542-4aca-967b-2ab8ce815d07"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{67C01A7A-9249-4AAD-9F8A-B08B24D3C0AE}">
+        <conditions>
+          <and
+            uid="E1B04A1AF10F45D1BE9BB49D1C8BF6E6">
+            <condition
+              id="{88D4EA5E-9BE5-42F6-AC02-9DD4DDEC08BA}"
+              uid="F193572A1CC941308E5ED0248A57967C" />
+            <condition
+              id="{913A642D-9FE7-46BF-BE5C-DB31FB6C5602}"
+              uid="38D067756E6147ED89C47A8FA26C9B6A"
+              operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+              value="$name" />
+          </and>
+        </conditions>
+        <actions>
+          <action
+            id="{F0FDE44B-B200-416C-A048-C833D4106CA6}"
+            uid="E48AC7555BA04C8CBA80FF7AFB506417" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kampagnekort
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104341Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kampagnekarten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140611T211809Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: キャンペーン マップ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105222Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

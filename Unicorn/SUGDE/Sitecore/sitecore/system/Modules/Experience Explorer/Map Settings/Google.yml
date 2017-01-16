@@ -1,0 +1,80 @@
+﻿---
+ID: "ebd9a8fb-754e-43ee-bcc6-71d248d88578"
+Parent: "97e04b22-ea39-4063-8a99-5102293975f3"
+Template: "ea3a2f65-7d64-4cf2-812d-c32c55fd356d"
+Path: /sitecore/system/Modules/Experience Explorer/Map Settings/Google
+DB: master
+SharedFields:
+- ID: "83b1a316-f9fe-4b9c-9b13-a562f176e8ed"
+  Hint: Scripts
+  Value: |
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Google
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "67338458-cb37-4013-ba01-e8639a18e4df"
+      Hint: Name
+      Value: Google
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Google
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "67338458-cb37-4013-ba01-e8639a18e4df"
+      Hint: Name
+      Value: Google
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140109T123932
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "67338458-cb37-4013-ba01-e8639a18e4df"
+      Hint: Name
+      Value: Google
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Google
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105239Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "67338458-cb37-4013-ba01-e8639a18e4df"
+      Hint: Name
+      Value: Google

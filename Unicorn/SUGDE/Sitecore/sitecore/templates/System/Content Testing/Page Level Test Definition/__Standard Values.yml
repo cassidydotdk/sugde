@@ -1,0 +1,30 @@
+﻿---
+ID: "97ded6cd-ad31-4eb1-8336-94126c199e23"
+Parent: "e3d0e5de-e552-4e88-b64e-81fa6b652122"
+Template: "e3d0e5de-e552-4e88-b64e-81fa6b652122"
+Path: /sitecore/templates/System/Content Testing/Page Level Test Definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: 
+- ID: "83798d75-df25-4c28-9327-e8bac2b75292"
+  Hint: __Insert Rules
+  Type: TreelistEx
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110302T165900
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

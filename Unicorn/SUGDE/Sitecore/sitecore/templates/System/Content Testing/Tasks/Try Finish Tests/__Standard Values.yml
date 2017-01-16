@@ -1,0 +1,29 @@
+﻿---
+ID: "77e1e5cb-5deb-4974-96dd-2b0c89699db9"
+Parent: "b7cb66a8-f6e6-44dc-b048-88bab0dc37c9"
+Template: "b7cb66a8-f6e6-44dc-b048-88bab0dc37c9"
+Path: /sitecore/templates/System/Content Testing/Tasks/Try Finish Tests/__Standard Values
+DB: master
+SharedFields:
+- ID: "4bc75539-d5c4-487b-af35-ff13d62bd286"
+  Hint: Method
+  Value: Execute
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Tasks.TryFinishTest, Sitecore.ContentTesting
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150813T065641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "798c6e3e-2a43-4859-83ad-d0da41c7bf22"
+      Hint: Update Test Statistics
+      Type: Checkbox
+      Value: 1

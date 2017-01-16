@@ -1,0 +1,96 @@
+﻿---
+ID: "85687b20-fb9f-4c2d-a330-b446f998a082"
+Parent: "197eb127-284d-436a-a576-486a7b01013e"
+Template: "a87ee256-044e-450d-a73c-9a464aa773ef"
+Path: /sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By asset group/All visits by asset group
+DB: master
+BranchID: "6a697493-a755-4a7b-9435-0f2076a1ee23"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Alle besøg efter aktivgruppe
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104341Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: Alle besøg efter aktivgruppe
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Alle Besuche nach Assetgruppen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104817Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: Alle Besuche nach Assetgruppen
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150227T064850Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: All visits by asset group
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: アセット グループ別のすべての訪問
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105222Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: アセット グループ別のすべての訪問

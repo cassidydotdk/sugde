@@ -1,0 +1,88 @@
+﻿---
+ID: "29d1f26e-dca2-4abd-a0fd-6f9c8cb475bc"
+Parent: "d194ac4a-031b-40a4-af59-75b482792f31"
+Template: "f960e028-5373-48bf-b3b3-9b23fe13c0c4"
+Path: /sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Search Keywords/ByDay
+DB: master
+SharedFields:
+- ID: "46fb3cb4-4740-4680-bb76-63a15ef25907"
+  Hint: SqlServer
+  Value: |
+    SELECT 
+      [Date] AS [Date],
+      SUM( [Visits] ) AS [Visits],
+      SUM( [Value] ) AS [Value],
+      [Keywords] AS [FacetId]
+    FROM
+      [CampaignsOverview]
+    WHERE
+      ([Keywords] > ' ')
+      {Filters} 
+    GROUP BY 
+      [Date],
+      [Keywords]
+    ORDER BY
+      [Date]
+- ID: "49fa57d8-e607-49f5-bb07-981b8fe5e005"
+  Hint: Report Name
+  Value: CampaignSearchKeywordsByDay
+- ID: "a9c8d7c7-a170-4305-a40f-df6cf543c007"
+  Hint: Oracle
+  Value: 
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EfterDag
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: NachTag
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104802Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101213T141700
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: デイリー レポート
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

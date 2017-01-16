@@ -1,0 +1,37 @@
+﻿---
+ID: "2da13c4c-2493-4614-b3f8-c6989a5a25f0"
+Parent: "aff050ba-a88c-4db7-8ed6-9cb2b7ca2688"
+Template: "aff050ba-a88c-4db7-8ed6-9cb2b7ca2688"
+Path: /sitecore/templates/System/Content Testing/Multivariate Test Definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{72296CFA-6354-47AD-901A-17F1651E9505}"
+- ID: "6997d734-2b0b-4ce4-8cd0-b4f73a3999a6"
+  Hint: Test Strategy
+  Value: "{1744A9FF-6E22-43F0-83E8-CCB30DDE35E5}"
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110216T165543
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

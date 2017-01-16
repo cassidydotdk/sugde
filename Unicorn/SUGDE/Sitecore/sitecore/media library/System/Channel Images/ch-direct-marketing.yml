@@ -1,0 +1,47 @@
+﻿---
+ID: "72cb5385-8c4f-4387-89f3-00be689e2318"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-direct-marketing"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/72CB53858C4F438789F300BE689E2318.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "cbd4dd23-8be9-4f81-b192-15cdcbe7c609"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG2YAABzjgAA+IsAAIRUAABvmgAA6wUAADAQAAAQHDZQA8sAAAJfSURBVHja7Nm/b+IwFAfwqBVLpfInJKULSruw9abqhu79A2DhT+hS6TrkfRMPp4i/wEu70kw3saAuXWC7CamDWbscTO2GqG8xFYdIcH6oCSdbeoLBkPfBfs+WsKSU1j6HZQAGYAAGYAAG8N8AvmJI4EC4dle4NhLCE2fOtQQOtn5HmQCVvNSMX9sQZQOQAiDFmXO93wDX9vYdgEIAAE4B3AEYEtErgAUAmSYyArq5AIyxBoBHAMu0CWsAlsK17xO6UTdXERNRB8Bb3sQTAPc7Vr1ORN8yAYjolog+Vg9X7we+77cZYw3OeY1zXmOMNXzfbwMYrM/XBEAlGvsZIvogottUACLqbCQzCYLgYleBBkFwAWBSJGAN0dECqD2/vm2ewjA81u0yYRgeA3gqEqDijTHW2AlQBfv5y6dJfgMxKRggATwmAlSrXK6WTWfbJG2nzZqIAxDRTBOwBHCaBLhbmzzIe2gBGGiuQJ2I+joI3/d/JAGGaxPbeQGqO+06B34L176MouiQiJ41EMNYgDphJQC5Kpg8QzWEOMCLcO2fwrVfxPnJ+7TVdABcaXSk16QV+LwecM5reQGc81ocYNpqOpZlWdNW01GgGwBHGiuwSAL887DVmI+pNx97i/nYk9ox8rZ1mCPh2jc5ATIDIGXy8YCraavpiPOT96xbKCtAFgEgoucoig6Fa1+q4l1kKOLyAArRB1Dfcmnr6x5opQIUYgbggYgC9TpLc6stHZA3DMAADCAtYOQhbfwZ4XtlADmv1OUAqhxat9EKR+JttFdxxAJAz/xDYwAGYADVib8DABJDXnFPuZ3GAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 729
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141537Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Digital marketing

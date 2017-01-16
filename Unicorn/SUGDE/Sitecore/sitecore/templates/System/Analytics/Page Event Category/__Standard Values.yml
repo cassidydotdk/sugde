@@ -1,0 +1,36 @@
+﻿---
+ID: "ae51a5fa-f306-46f7-bbe2-a4d676de91a6"
+Parent: "738a454a-0ed3-4d5b-b036-f16022aa6b54"
+Template: "738a454a-0ed3-4d5b-b036-f16022aa6b54"
+Path: /sitecore/templates/System/Analytics/Page Event Category/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_blue.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {738A454A-0ED3-4D5B-B036-F16022AA6B54}
+    {059CFBDF-49FC-4F14-A4E5-B63E1E1AFB1E}
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120202T124200
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

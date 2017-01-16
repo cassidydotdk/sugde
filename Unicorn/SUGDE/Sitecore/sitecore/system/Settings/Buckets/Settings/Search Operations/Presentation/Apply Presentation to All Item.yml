@@ -1,0 +1,90 @@
+﻿---
+ID: "a0466518-cc4a-460d-9954-9fef216ec603"
+Parent: "01265c34-a863-45a6-97b1-588b0508a867"
+Template: "9f63f3ed-bfb8-49a3-b370-1830e0a5920f"
+Path: /sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation/Apply Presentation to All Items
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/text_code.png
+- ID: "5e34a660-3099-4e49-87df-80eb1decf2a6"
+  Hint: Enabled
+  Type: Checkbox
+  Value: 1
+- ID: "ccd35091-1a66-4ce5-a1d3-77a2ccd29142"
+  Hint: Type
+  Value: "bucket:applypresentationtoallitems"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Author|pe|-item:read|pd|-item:read|
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Anvend præsentation på alle elementer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Anvend præsentation på alle elementer
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Präsentation auf alle Items anwenden
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104821Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Präsentation auf alle Items anwenden
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120326T200800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Apply presentation
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: プレゼンテーションをすべてのアイテムに適用
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105226Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: プレゼンテーションをすべてのアイテムに適用

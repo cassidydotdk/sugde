@@ -1,0 +1,101 @@
+﻿---
+ID: "a35347de-592d-4203-b070-923f9f726744"
+Parent: "6681c7f1-a70c-4410-8263-eaa78bb06b15"
+Template: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Site maps/website/Experience maps
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B99B5D85-64F1-4C19-8BFC-F96726BFE2E2}
+    {C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}
+- ID: "5b9f5881-8542-4aca-967b-2ab8ce815d07"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{B5772885-5FC0-49B1-A7C8-110CD6C72A1D}">
+        <conditions>
+          <and
+            uid="D6FB1FE9FFE444DFA8687881B2B4DB38">
+            <condition
+              id="{5F804210-DC32-4EF1-9430-1D342189961E}"
+              uid="2B83D54183CA476D939646DAE0FBED69" />
+            <condition
+              id="{913A642D-9FE7-46BF-BE5C-DB31FB6C5602}"
+              uid="122EC4179DDC453CA148745D0B3089E6"
+              operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+              value="website" />
+          </and>
+        </conditions>
+        <actions>
+          <action
+            id="{F0FDE44B-B200-416C-A048-C833D4106CA6}"
+            uid="7EB9CFFBB8BE4CAFAD0B7C01ECFB7095" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Oplevelseskort
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Experiencekarten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104821Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150710T001000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: エクスペリエンス マップ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105227Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

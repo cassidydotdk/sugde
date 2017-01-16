@@ -1,0 +1,23 @@
+﻿---
+ID: "845f69c6-764c-41b6-9a24-573c892daa84"
+Parent: "1bd410dd-2c0d-41de-bd13-b9fc19976767"
+Template: "1bd410dd-2c0d-41de-bd13-b9fc19976767"
+Path: /sitecore/templates/System/Content Testing/Page Level Test Value/__Standard Values
+DB: master
+SharedFields:
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110302T060111Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

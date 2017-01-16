@@ -1,0 +1,99 @@
+﻿---
+ID: "86f838f5-7e87-45bb-876f-c021324ac8b0"
+Parent: "03ada6b9-d09f-4552-a1b0-e6aaf9c3fed9"
+Template: "1dde3f02-0bd7-4779-867a-dc578adf91ea"
+Path: /sitecore/layout/Renderings/System/Feeds/FeedRenderer
+DB: master
+BranchID: "00e66e02-df20-4f3a-b8aa-5239108dc2bb"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Control/16x16/edit.png
+- ID: "1f424eb0-6138-4bc4-93b0-bd45ec6b1cb2"
+  Hint: Namespace
+  Value: Sitecore.Web.UI.WebControls
+- ID: "9003574a-fb95-4f3c-b17c-33893dad35a9"
+  Hint: Parameters Template
+  Value: "{2329744E-7968-4CEA-B5FD-60131F50E744}"
+- ID: "b8979e80-7623-4b3a-bfd2-3f3f05883d58"
+  Hint: Tag
+  Value: FeedRenderer
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 99
+- ID: "c50b1f5b-26da-476a-aac6-9b734975971c"
+  Hint: Assembly
+  Value: Sitecore.Kernel.dll
+- ID: "e2abdec6-83a6-4b68-97d1-b3cd79f10a8e"
+  Hint: TagPrefix
+  Value: sc
+Languages:
+- Language: da
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: "Renderer individuelle elementer i RSS-feeds"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Feed-renderer"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104341Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Rendert individuelle Items in RSS Feeds
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FeedRenderer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Renders individual items in RSS feeds
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090423T104536
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: 個々のアイテムの RSS フィードをレンダリングします
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: フィード レンダラー
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105222Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

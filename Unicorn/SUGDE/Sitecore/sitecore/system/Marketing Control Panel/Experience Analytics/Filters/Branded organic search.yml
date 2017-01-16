@@ -1,0 +1,147 @@
+﻿---
+ID: "3c117487-2acc-45a9-8b72-146e2dd9b70a"
+Parent: "f1c4275c-8f38-4570-babf-c95837cc87cf"
+Template: "07003270-d56d-42c2-90e1-99125e0ed1af"
+Path: /sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Branded organic search
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Branded organisk søgning
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e72123a-f0fc-48ef-ae9f-78872597cebf"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{34C5C769-4F32-4FE1-B8A3-ABC0C44C99EE}">
+            <conditions>
+              <condition
+                id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}"
+                uid="45E787A6C28140A4B3143E6BD5E0E5B0"
+                ChannelId="{FB8FA660-0A07-4EE9-A9F4-930FC5D10AEC}" />
+            </conditions>
+            <actions>
+              <action
+                id="{E7AD708C-9943-4173-9055-ED9B078932B2}"
+                uid="C8F707675C0344A496335F55AA01450D" />
+            </actions>
+          </rule>
+        </ruleset>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Branded organsiche Suche
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e72123a-f0fc-48ef-ae9f-78872597cebf"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{34C5C769-4F32-4FE1-B8A3-ABC0C44C99EE}">
+            <conditions>
+              <condition
+                id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}"
+                uid="45E787A6C28140A4B3143E6BD5E0E5B0"
+                ChannelId="{FB8FA660-0A07-4EE9-A9F4-930FC5D10AEC}" />
+            </conditions>
+            <actions>
+              <action
+                id="{E7AD708C-9943-4173-9055-ED9B078932B2}"
+                uid="C8F707675C0344A496335F55AA01450D" />
+            </actions>
+          </rule>
+        </ruleset>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e72123a-f0fc-48ef-ae9f-78872597cebf"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{34C5C769-4F32-4FE1-B8A3-ABC0C44C99EE}">
+            <conditions>
+              <condition
+                id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}"
+                uid="45E787A6C28140A4B3143E6BD5E0E5B0"
+                ChannelId="{FB8FA660-0A07-4EE9-A9F4-930FC5D10AEC}" />
+            </conditions>
+            <actions>
+              <action
+                id="{E7AD708C-9943-4173-9055-ED9B078932B2}"
+                uid="C8F707675C0344A496335F55AA01450D" />
+            </actions>
+          </rule>
+        </ruleset>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141007T074206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ブランド指定ありのオーガニック検索
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e72123a-f0fc-48ef-ae9f-78872597cebf"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{34C5C769-4F32-4FE1-B8A3-ABC0C44C99EE}">
+            <conditions>
+              <condition
+                id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}"
+                uid="45E787A6C28140A4B3143E6BD5E0E5B0"
+                ChannelId="{FB8FA660-0A07-4EE9-A9F4-930FC5D10AEC}" />
+            </conditions>
+            <actions>
+              <action
+                id="{E7AD708C-9943-4173-9055-ED9B078932B2}"
+                uid="C8F707675C0344A496335F55AA01450D" />
+            </actions>
+          </rule>
+        </ruleset>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,47 @@
+﻿---
+ID: "060c8e77-016b-45cc-88f3-5bcd99b59008"
+Parent: "e45ec7b0-94dd-405c-876a-96e0844fe1ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Images/Social/Connector/LinkedIn
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/060C8E77016B45CC88F35BCD99B59008.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a7749c7b-cf02-4df1-9e7b-81ad3905635d"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjExR/NCNwAAAdhJREFUSEudUjtLA0EQTptGLPMXBEUI2FpYpPFf2GrtQQQtLYIYLDRWloeVCJ4XqxjFWNiIClGIWIoSG7ERH+vO7ezu7OM2hwMfd/vN45uZ3VJ5+SguRwnjXz98vlA8RZTEICAPttM8Uz4kECHwrAXyQIJVYfUlPhsYIwTwMFY/Zu2HVwa23hnoQiHYotm/9hkC6b0oLq2e9nUSBcT7uvdwJapmW3cwdBKCyITJJBxagGPp8A5LC6s2z3QwTTT+PZzyyRURLB7csu7jkM1snetkG3m8B+SZmg4Hng5nd3psYf+aTW50vX6AMUGtdYnLESaTaq0eMsLmtnvs++cXT9qmN3GlpFlTYNcSkLwlnGcfn18qR8J4ps4EGGQLg908v7OLpzdnkqlGR+UBjDuwVyH4xOGT/osqAI+CGjSjanL8a0XVJn9h6JtonCIrbH7vSmwEt1JQwJxgfCVVPgA1aCbjlQD+iFUUm0DyEtSgGeoLTwDPDe7G4WEFOo+acQc8rtiKcvgMvAg1YwJHoOArEhMgeAw1d0UYBPAKAB+agINacEWVtZMsQMLh+WXbHUIR4DLwmMpq2/AbEwQhL3VUvOU3JjAwspCH8wAEYkXIogWTM9BG7KaiJP4DPR3loPVwtoYAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 617
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 24 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140917T103639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: LinkedIn

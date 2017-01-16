@@ -1,0 +1,86 @@
+﻿---
+ID: "054fe55f-e3fb-46c6-8cb0-948f368b6579"
+Parent: "b4a0fb13-9758-427c-a7eb-1a406c045192"
+Template: "1dde3f02-0bd7-4779-867a-dc578adf91ea"
+Path: /sitecore/layout/Renderings/System/WebEdit/WebEdit Ribbon
+DB: master
+BranchID: "00e66e02-df20-4f3a-b8aa-5239108dc2bb"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Control/16x16/edit.png
+- ID: "1f424eb0-6138-4bc4-93b0-bd45ec6b1cb2"
+  Hint: Namespace
+  Value: Sitecore.Web.UI.WebControls
+- ID: "6d6a0da0-f3ea-4799-9cae-ce748e0b6a24"
+  Hint: Placeholder
+  Value: __WebEditRibbon
+- ID: "b8979e80-7623-4b3a-bfd2-3f3f05883d58"
+  Hint: Tag
+  Value: WebEditRibbon
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 99
+- ID: "c50b1f5b-26da-476a-aac6-9b734975971c"
+  Hint: Assembly
+  Value: Sitecore.ExperienceEditor.dll
+- ID: "e2abdec6-83a6-4b68-97d1-b3cd79f10a8e"
+  Hint: TagPrefix
+  Value: sc
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "WebEdit-værktøjsbjælke"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104322Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: WebEdit Ribbon
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20070131T085702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: エクスペリエンス エディター用リボン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

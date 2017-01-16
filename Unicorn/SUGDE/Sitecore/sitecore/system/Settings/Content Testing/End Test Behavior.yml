@@ -1,0 +1,42 @@
+﻿---
+ID: "b2fafb1e-3e71-4086-9526-7cad4c2c56a1"
+Parent: "27d328be-0d93-4450-9618-432c0649e153"
+Template: "8d013c99-17ee-46b5-a910-6ef4117681e1"
+Path: /sitecore/system/Settings/Content Testing/End Test Behavior
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140721T155628
+    - ID: "384d5810-50e1-4433-b98b-547d6a788d17"
+      Hint: Rules
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{CE3361C2-CFF8-48BF-A80C-9160706EE432}">
+            <actions>
+              <action
+                id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}"
+                uid="9669370C0A954537ABF12A669E0030A0"
+                Rule="{3CF6A4D2-3C30-4410-8EEE-F8D3FACE6FB6}" />
+              <action
+                id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}"
+                uid="58FDC53EC72B4FDD90F5BE7C70DBB0EE"
+                Rule="{B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}" />
+            </actions>
+            <conditions>
+              <condition
+                id="{4888ABBB-F17D-4485-B14B-842413F88732}"
+                uid="CB4AA40B9C814DDE843D5DAE29E0EEB2" />
+            </conditions>
+          </rule>
+        </ruleset>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

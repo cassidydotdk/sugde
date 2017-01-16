@@ -1,0 +1,47 @@
+﻿---
+ID: "6aa5aa9f-071a-4808-91ac-709faaffb310"
+Parent: "e45ec7b0-94dd-405c-876a-96e0844fe1ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Images/Social/Connector/Facebook
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/6AA5AA9F071A480891AC709FAAFFB310.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e50679be-915b-4391-96b7-851cd0719a7a"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjExR/NCNwAAAVdJREFUSEtjsA6fqwnEG4D4FxD/pxIGmQUyUwNkAYiBTRE18AaQBb/RBKmJf4MswCZBNUyWBTYRc/8HZK74P3f1uf8Xrj///+jZh//3Hr/7v/voXQy1JFtgEzHvf27z9v/PXn3+jw6evPiIoZ5kC8LyVv+/dOPl/3//oKYiAapY0D376P8Pn3+ADfz85ef/nYfv/J+65NT/yYtO/m+fcRhDPckWLN9y+f+fvxDnX7396n8o0EegYMOmFoRJtmDdzmtgw0Hg1MUneA0HYYosOAm0AJsaZEyUBS1TD/7vmXsMjM9few41/v//+0/ew8VBuH7SfgwfEWXB63dfoUbiBxdvvqStBZv33cTQS5QFN++9AVsCwt9//IYa9///z19/4OIgDErC6HoHRyQj41ELCOJBaQFJVSaJFoCrzC1ogngxiRZsAVmgBcSglgVRPiHSApBZQDPnagEAsLeUJ9DC2IoAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 488
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 24 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140917T103639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Facebook

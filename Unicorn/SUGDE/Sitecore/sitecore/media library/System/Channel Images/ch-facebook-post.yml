@@ -1,0 +1,47 @@
+﻿---
+ID: "9647dba8-0f1f-4943-b397-6fe379e4f742"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-facebook-post"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9647DBA80F1F4943B3976FE379E4F742.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1cc3bd54-3c10-437d-890d-31f9b5c97f02"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA0pJREFUeNrsWktrE1EUPvfOJGnatKEvrUV8FKQWEaWbBlREkNZVdaHi0oV0LeKim5IEERcWVOhv0K3UlRtBBVGhC6naha/YSvq0sUnzaCaZ8dyb1nSmk1fJPII5cAh3uJ17v3u+850zMyWKokAtG4UatzoAq03cPggGg9VKCHafFfSX6OPo7/Qm+f1+20aAoHeiX0Z/gz5ayxRia9xDDxhOIU14Sak/Rsrp3e8m+n29W27+BuwcgQz6Q821kAaE3+4UymjG5zQgAtUEYUYOhIwEYVYd0AWBOTRaKwAKgbiLIAYMUaFdFDhSpKgVO8Db6FdquZU4W+u9UIfhFCpU1HQKWSk66RU7YjgAA+oEa/DGq9HMVRXAFPWF8cdT7vzhO893s8z65NhQt1EqtM+ECDYbSaGYdoFKTZYVkP89pxOgeCyUEu0a9noio4SAlJVheS0F8Y0MAgDuWVmGDSlriQqVv3k83Wgizavd8MBBOHOsCw505tKIBeLzbAQeTX4EQSAgUGILFconDe4nlpDAKQowdq0fTvXt3TGn1eOEB5PTQBViv0KWRZ4kkDK3Lh7X3XwOJCnajJjRCxXOeDz9E4fbYLB/v+r6z6UYJNNZTpmFSJLTjBD7FLK8oKckONnTrrr25NVXmHj2CRxIK1EgPAJup2CrSqyiUEujU3XtxYcwpDMytDW7eBKXiqvlKqTIanY6RAouh8BPnpRBSlMjwDjNdD28muDjb/NRiMTTqjmLyPkfizFOL2YMTFdrI9dUxWoAbFOdXjdcP9/Lx0z/fb17VHNGLvTxeuB25ba2hgCfvg3xaFBCrFWheCoDR7pdcPV0T8E5QxpF+rUS54ntdoq6K5haB5gcsvagEnv/ZYnTjhIbPJGRzfagEptdjoOEqkQKZLSpKuRFyVxeS8LIxGs+Dq/G4cbgUbjkO5R/1/J4Cmbm/oC3KSevv6Mp6GhpsIcKiQLlpzkzF+FjpjasA91u3xeiMB1ahfYWFx83NTigAQuZLCvWA2B9PsuDVk9uc7GktKPKssLGitjWnK1nhIojsIuPHQQssPo3MqtNLEdtDH7LUKdQVV95mPDd37jXKlgs5ykQTxbl0kBJWletWf9fiTqA/xzAXwEGANwpHHnHzJ/JAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 936
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141531Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Facebook post

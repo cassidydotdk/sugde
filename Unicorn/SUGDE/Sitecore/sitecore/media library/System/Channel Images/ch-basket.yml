@@ -1,0 +1,47 @@
+﻿---
+ID: "3e9c109e-17f9-4f27-8cb0-29a5d5724ee8"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-basket"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3E9C109E17F94F278CB029A5D5724EE8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f4b0113e-89fa-404c-bad0-b67cf38c2460"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACiElEQVR42u1ZMUscQRhVVNRC0likTSMI2gjaxMLSoJdCTGunv8DC7nb3UpyJHMmBoJWkPbGwMRcsDrUS7AXtxFOwElNuwua93M45nLt3e7czt5OwH3yw7Lx533s3O7Pfcj09aaRhRjiOM21Z1rdsNrschuEYMcSaJv4txD1BnIf8bdv2aiOG9zhGDLGcY6J4kb+QrwWG1/69OsYIEyHimY/5fP6VwPGa9xpxiZoIEx8mql28UeKNMhFXRKImVBVPxITqol01oatYV0zoLqKVHwST3VjmFiYmIxNlnO+fM07ZRXpzVqUfJBth4td2LwaAOyA2Zh6Qq8lLcYNafKxLjU0M1MQzFz+WZ3K53BsQ3GsU38rEPTVQi4R1mxl4JrXL5+83D0dAMA7SK+SdJvFBJu5Yk7WpgVpkbDQDNRNnH/LH9Z7mXfFoUJP4ugnWEPVYmxoacZEeISmrGefHVxBt4fpao3iR17VaqPm39otxN9ImNjSbb+L/IrB5ZixDg9paGgBuKuAsNiWnWhrwPK8XwBsDxd9QW6THCODtAIJKwKrK441RUTRX5HbkfQDwfACBFYCrjweMWYrmipyPbKBYLA4G9CWJGaAWamrrNMLEfYNWYL+T43TFoBVYadsAJo4iXQNOH2oY7eilhoknBhg46fitjMnrBhhYj9NWjElEP5FDuvcAa/i1xPM/Fqs3AsmlILNte0G3AdaQxi5VNHefpF9jR7cB1pDGNmMbAMmsRFiV+xHVBvw+rCqNzcY2UCqV+kD0IK3CF129kM8t7j2wtpJvBJDtJXD67Cn7yAHZUgIGlpQZKBQKwyC87aL4W9ZU+qkJ0gk8o6ea2wvXrzGR/u+bRhpp/BvxB3NyJ7bjpnKVAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 705
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141528Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Basket

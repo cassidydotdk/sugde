@@ -1,0 +1,47 @@
+﻿---
+ID: "9dd598f7-0a94-4564-889f-899cf39a60d7"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Page Visited
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9DD598F70A944564889F899CF39A60D7.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3ab8aa60-c6a4-4148-afc1-8608eb5604f1"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxBJREFUeNrs3eFx0zAYBmCXYwBGyAaIDdIJ6AgdgRG6AWxQNmCEhAloJ2iYIOkEIb6mB8dxXC6WY3/6nvdO/5pIkZ9IsurYV93w7Dt5ze5Qrg/lIUqD3zhmVfPuUFaHUgCAoAAAQQEAggIABAUACAoAEBQAICgAQFAAgKAAAEEBAIICAAQFAAgKABCUiI3fDyzR0h+kbYXP/a+yjYggGwAIAIAAgN8I9tkRZAbQjQggDAIAkiMAIDCCq0odMHUblme+rr98ezfx5z81s73kfOoR4GngN2sRYASY9XQwNYCh9S8DAaiOwFZwvFTdNgYgOQIAkiNoAcDQVfEuM4IWAOwmBhQagSkg+XQAQHIEpoDkCFoA8DjgtevsCEwByUcCANpHAEByBM0DGDKPb7ILyT4C/ARAhuaqcvlwyVNbAOaXfmv6+lIIWgCwgWDazOGi0KmuBho7Zez+NQXMfyQwBQgAAsB/s7aANAIAAIAAICkBbBzK3ADO+afO2uE3BQCgCwBoIa4MTg7g4UKvAaChPDv81gAA6AIAsq4BLByTnwVYBJoCBAAAmok5PTmAh5H/HoDGYsSwBhAAAEi5BjD8NwjgeSQsAAgArU0BRoBjWnliyGtuu9MeAPEl0Dpg1P5tDUCLGbV/rQGsAQQAAUAAEAAEAAFAABAAJEPeNviZlofysXu5y2Zf+nvmr7uXu4h8P5SvDnvdzOFWsd3xYK9OqK9/2viN/m2rgbdn1HsPQBsNvBlQ92cAYjewn9+3A+tfAhC3gXcV6l8BELeB2wr177uBj2CP3L+R9wFeT/FqnTraCAqWRcX3eg9AzBFgjpgAuFA2Fd9rB0BuAI8AxMu64nv5oUjQ08D7CvU/6d+4DVxUqP8WgNgN/DSg7m9G2DYaeM5U8KOrt5EEwAwa2A/lp24NR/gvIABnpP9G3x2/3X/Xsz2OFNE2fUbt39Z/Hbz8Y89g08WMn4c7zR6vf10VnDwAACAACAACgCTMHH4atncYjAACgAAgAAgAAoAAIAAIAAKAACAACAACgAAgVfNLgAEAx1BFqNarvmEAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 878
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104937
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Page visited

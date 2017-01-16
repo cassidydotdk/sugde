@@ -1,0 +1,118 @@
+﻿---
+ID: "abbcbebe-4c26-4ebe-9599-63b05e60f598"
+Parent: "ff0bc016-2d01-4f55-a020-ef6fc2fe7559"
+Template: "664e5035-eb8c-4ba1-9731-a098fcc9127a"
+Path: /sitecore/system/Settings/Rules/Insert Options/Rules/MVC Layouts
+DB: master
+SharedFields:
+- ID: "fa307b86-da2a-44bd-887d-e2057cdb4948"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{2E89945B-16DE-4654-97BE-D820EA843AA9}">
+        <conditions>
+          <or
+            uid="ACE6BE1F0EE4458FA7545142146A0095">
+            <and
+              uid="0396B677E8A94B49A4975683FB224491">
+              <condition
+                id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                uid="E6A4E56AFFFB414C99B3267C53B8D3B1"
+                itemid="{75CC5CE4-8979-4008-9D3C-806477D57619}" />
+              <condition
+                id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+                uid="29A964FFD95D4B41890EDDA95C2DEBF9"
+                templateid="{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}" />
+            </and>
+            <and
+              uid="EEF5C82442AE4218A4B12C2AF6F9E2D5">
+              <condition
+                id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                uid="010DF64491564187B6C72B288774590C"
+                itemid="{75CC5CE4-8979-4008-9D3C-806477D57619}" />
+              <condition
+                id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+                uid="881E4E9984B94A9B85314F7502C6D38F"
+                templateid="{93227C5D-4FEF-474D-94C0-F252EC8E8219}" />
+            </and>
+          </or>
+        </conditions>
+        <actions>
+          <action
+            id="{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}"
+            uid="{F1E653AA-B941-4B4F-8372-CC3B29CA3976}"
+            insertoptionid="{899D11CD-60D6-4C06-A777-450B16BB5B3F}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "MVC-Layouts"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20140604T081149:635374663090303240Z"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: "Når elementet er et underelement af renderinger, og skabelonen er en renderingsmappe eller en knude, skal du indsætte en mulighed for Mvc-typer"
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: MVC Layouts
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20140604T075950:635374655904091816Z"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: "Wenn das Item ein Subitem von Renderings ist und das Template ein Ordner, Rendering Ordner oder Knoten, fügen Sie Einfügen-Option für Mvc Typen hinzu."
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20080923T073739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: When item is a subitem of Renderings and the template is Rendering Folder or Node, add insert option for MVC types
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: MVC レイアウト
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20140604T082509:635374671097812660Z"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: アイテムが「レンダリングのサブアイテム」かつ「ノード」または「フォルダー」または「レンダリング フォルダー」テンプレートを使用している場合、挿入オプションに MVC 型を追加する

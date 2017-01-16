@@ -1,0 +1,21 @@
+﻿---
+ID: "0ca0e16b-2e9a-4860-affb-90d00d92a2b4"
+Parent: "7b8cc824-2e4b-4a00-85f5-cccc3354db15"
+Template: "7b8cc824-2e4b-4a00-85f5-cccc3354db15"
+Path: /sitecore/templates/System/Indexing and Search/Boosting Rule/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090818T190507
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "69a0209b-5702-465e-91a1-a525728f57da"
+      Hint: Name
+      Value: $name

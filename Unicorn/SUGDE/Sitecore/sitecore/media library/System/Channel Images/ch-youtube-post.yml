@@ -1,0 +1,47 @@
+﻿---
+ID: "8575417c-af30-4a40-94d1-f522ad2c1e25"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-youtube-post"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8575417CAF304A4094D1F522AD2C1E25.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1f1063a8-946b-464b-8d76-2da936d269d0"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAuZJREFUeNrsWU9o01AY/14T02Sd7ZRuKsouGwjKdpooiE5PHgQRUYR5mwfRg4hM2EXaTsSDO3jxpicPPfkXUTxOZDJkJ1EQ9qdThj1Uy7ZalzZt/V58hRCzdOnysgbz4Md7aV6/vN/7/r6E1Go18HMLgc9bQCAg8L8TEI0XqVTKrZBE5eQQE4hxxJTVpEQi0bIaIIhOxFnEJGLUzyZEn3EHkeRuQib1kkZ/RpOzkncNcddKJOuTrawBDXHP9FvGRCLR6iakma6Pm0gk3SThhQ9keJLwKg9YkkAfGvULgbVI3EYSB7lEoSYSHLFJanYbOII45+dSYtDvtVCcuwmtldQsElkjc7JKdoQ7AQ55ghZ4461czG1OOc0pCgUHmsCEnESh6dCh+lBC9CHaEGHWK2xM5YVP3XpjlFtGVFi/iiiyvoRYRCzQSS9unvAkCp1mYbLXJXlLiMeIKwiVN4F+xFOXZcYQw2x8kXcUusTR5IfNBHg4cY9t1CAE1HIFiqoGhLRmFOqwTcOVKnTFFIi2SbD4o6iTIRtgwqMW2m4nK19Q4ej+XTB0rBfSb2fh1YevkFsuQCeSCm8RwOnbch4aUOxuVnF9v0oa7IlH4MaZfrh/+TCcPNANhdUyfP9Z1B3JiUJ4EAjberppcfu6t8HYhQF4eHUQzh/pgZJWRTOruWtCDqNQU5uyd3cMPu1s16VU0YyEdZZWPPKA2miC0czpjj+fysCTyXmYy65APCqDKBBYryt4ToA6abvy97Gvp79BemIGPi7kYasswo4ORTcxJ37MIwot2abUiATzuNPXH7yHd5+zIImC7tAhtnCnn+x4aCBvd1OWRJjNLsNvTGRduONCiDS1cJ4EcrZhFOOojPGewuwPrhJo4mNH3cxebuQ9T4P2xYs88AiR5iC3YKhIuZoQ1dwQ4hliABFlyS3CDjWyIdnRQ49Qj6jsQKOxgwxd8AobzzB5c/+oPfhSHxAICAQENrX9EWAAttPfhpqLSGkAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 836
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Youtube post

@@ -1,0 +1,32 @@
+﻿---
+ID: "4a124949-cb3e-451a-9b59-1342c1e98ae1"
+Parent: "f77fc8c9-8888-414d-8fc7-d20609b52c59"
+Template: "f77fc8c9-8888-414d-8fc7-d20609b52c59"
+Path: /sitecore/templates/System/Social/Account/Account Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F77FC8C9-8888-414D-8FC7-D20609B52C59}
+    {F687363B-E6B6-40FF-87A7-2318748348CA}
+    {8578CE74-6D2C-4AA2-B188-DA7926E1281A}
+    {F5521F25-868A-441D-A59D-075AB822E166}
+    {161D7248-FED4-440C-845C-527EB90ADA5F}
+    {5C4DE356-5D69-4D6C-B06C-667913F83AFC}
+- ID: "233d3295-bf88-45c8-88da-ba51107fd155"
+  Hint: Default Application Folder
+  Value: "{8C053EB6-1535-4B4D-8755-1E10D027237A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120111T195100
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

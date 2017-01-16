@@ -1,0 +1,18 @@
+﻿---
+ID: "a52dcdd0-128c-4803-94c9-8bd096290241"
+Parent: "196fb4aa-342a-42e0-81c1-c3d32e67f864"
+Template: "196fb4aa-342a-42e0-81c1-c3d32e67f864"
+Path: /sitecore/templates/System/Social/Connector/Login with Google Button Parameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140327T103558
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

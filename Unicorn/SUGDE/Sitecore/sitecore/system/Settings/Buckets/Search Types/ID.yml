@@ -1,0 +1,94 @@
+﻿---
+ID: "5a531af0-c44c-4141-a0d3-09c5cdc3d654"
+Parent: "7ce9fda0-e6c1-4495-9740-9944656e893b"
+Template: "087dcaf1-4778-4849-99b4-599b901dbe09"
+Path: /sitecore/system/Settings/Buckets/Search Types/ID
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/graph_node.png
+- ID: "759a7bd8-c40a-475e-a650-d7c9dfd89cd0"
+  Hint: Field
+  Value: _group
+- ID: "9d2e8c51-5921-498a-bff6-d6aa99d3eeee"
+  Hint: Control Type
+  Value: "{9DD8E89E-9ECF-4D3B-AC8C-A47B6A455001}"
+- ID: "a434e593-d2b2-4591-8916-74564962d6d5"
+  Hint: Icon
+  Value: /sitecore/shell/Applications/Buckets/images/id.png
+- ID: "d5ca4991-ea12-4fbd-b797-1de976a79540"
+  Hint: Client Side Hook
+  Value: normal
+- ID: "d94cdb6a-d0fd-42f2-8370-0346a17b3d5a"
+  Hint: Name
+  Value: id
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ID
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104334Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cc084d53-fa58-4591-b7c7-20e7a60c8a4a"
+      Hint: Display Text
+      Value: Søg ved hjælp af ID (maks. 1 resultat)
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ID
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cc084d53-fa58-4591-b7c7-20e7a60c8a4a"
+      Hint: Display Text
+      Value: Suchen anhand von ID (Max 1 Ergebnis)
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120202T121800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cc084d53-fa58-4591-b7c7-20e7a60c8a4a"
+      Hint: Display Text
+      Value: Search by ID (max 1 result)
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ID
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cc084d53-fa58-4591-b7c7-20e7a60c8a4a"
+      Hint: Display Text
+      Value: ID を指定して検索 （検索結果は 1 アイテムです）

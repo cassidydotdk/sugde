@@ -1,0 +1,28 @@
+﻿---
+ID: "bbac324c-9a95-4884-9d1f-0f59e5eea168"
+Parent: "48caa697-1ce3-4ae8-981e-6be99751fd62"
+Template: "48caa697-1ce3-4ae8-981e-6be99751fd62"
+Path: /sitecore/templates/System/Social/Sharing/Google Plus Share Button Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140129T142540
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "747f8f55-e617-4e3b-bd99-d0ac554b2940"
+      Hint: Goal
+      Value: "{CC2CC47C-8CC8-469D-B8C6-C11F202FD20A}"
+    - ID: "c60e2ebd-8870-4323-89d2-4b755c1cb108"
+      Hint: Campaign
+      Value: "{19563CBA-D45D-4314-968E-A05C039671D5}"

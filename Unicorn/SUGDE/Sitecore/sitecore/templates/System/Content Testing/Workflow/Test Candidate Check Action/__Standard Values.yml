@@ -1,0 +1,22 @@
+﻿---
+ID: "d0cb779e-5187-4e8b-b089-61c5581de454"
+Parent: "f22a1570-ee5e-4607-ace6-8ab2e45a0dd4"
+Template: "f22a1570-ee5e-4607-ace6-8ab2e45a0dd4"
+Path: /sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action/__Standard Values
+DB: master
+SharedFields:
+- ID: "a291a22b-99e2-46bb-a27b-8ec744275396"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Workflows.TestCandidateCheck, Sitecore.ContentTesting
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140304T122519
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

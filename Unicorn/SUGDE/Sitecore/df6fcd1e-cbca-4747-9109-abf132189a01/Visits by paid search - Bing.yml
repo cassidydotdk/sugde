@@ -1,0 +1,94 @@
+﻿---
+ID: "76b6fb92-6c87-449d-b9d9-cb3e4951b3ca"
+Parent: "df6fcd1e-cbca-4747-9109-abf132189a01"
+Template: "a87ee256-044e-450d-a73c-9a464aa773ef"
+Path: "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By search keyword/Visits by paid search - Bing"
+DB: master
+SharedFields:
+- ID: "4bf22e26-3a47-454e-b047-5f31480396fe"
+  Hint: Filter
+  Value: "{CDB3D252-43FF-44B8-817A-AC9F38D24516}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Besøg efter betalt søgning – Bing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104338Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: Besøg efter betalt søgning – Bing
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Besuche nach Bezahlter Suche - Bing"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104815Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: "Besuche nach Bezahlter Suche - Bing"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141007T102823Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: "Visits by paid search - Bing"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "有料検索からの訪問 - Bing"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105220Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b0413da-641e-46d9-8a2a-d8598479952c"
+      Hint: Name
+      Value: "有料検索からの訪問 - Bing"

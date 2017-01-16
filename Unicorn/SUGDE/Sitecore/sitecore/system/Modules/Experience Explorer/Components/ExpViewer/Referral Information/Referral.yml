@@ -1,0 +1,82 @@
+﻿---
+ID: "b5fa229a-67d3-43bb-afc6-1a1118c9cec0"
+Parent: "cf4407ae-6bff-47d3-b65a-ab1b9aa2c8aa"
+Template: "e360bed5-b72b-4c02-890f-e434486de3f1"
+Path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information/Referral
+DB: master
+SharedFields:
+- ID: "64461e27-1c6a-4aa2-bda8-44e5316ef09e"
+  Hint: Method
+  Value: GetViewerReferralInformationReferral
+- ID: "ad8d5f6d-d0a3-4f86-a4e7-c29ff7427597"
+  Hint: Path
+  Value: /sitecore modules/Web/ExperienceExplorer/Controls/ReferralInformation/Referral/ReferralViewer.ascx
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Henvisning
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104348Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Henvisning
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Verweis
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104825Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Verweis
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130401T224512
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Referral
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 参照元
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: 参照元

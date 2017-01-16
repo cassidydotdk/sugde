@@ -1,0 +1,18 @@
+﻿---
+ID: "03292cf8-2666-4d97-8bff-7dd905b2c6d1"
+Parent: "39394d34-d9b8-4334-a712-b3216e936750"
+Template: "39394d34-d9b8-4334-a712-b3216e936750"
+Path: /sitecore/templates/System/Social/Account/Social Marketer Account/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130717T120511
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

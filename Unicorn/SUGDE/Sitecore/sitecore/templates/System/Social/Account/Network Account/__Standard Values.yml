@@ -1,0 +1,18 @@
+﻿---
+ID: "103adfcc-9e69-4d38-9971-3582db6ca89e"
+Parent: "2c0b92b7-6f32-48ac-a880-14a07995f118"
+Template: "2c0b92b7-6f32-48ac-a880-14a07995f118"
+Path: /sitecore/templates/System/Social/Account/Network Account/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130717T120200
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

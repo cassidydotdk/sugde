@@ -1,0 +1,94 @@
+﻿---
+ID: "851aaa74-58a1-49b0-9fd1-5d45970035da"
+Parent: "bccbfecc-9953-4c4d-8bff-b31e288cbdae"
+Template: "9f63f3ed-bfb8-49a3-b370-1830e0a5920f"
+Path: /sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Delete All Items in List
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/document_error.png
+- ID: "5e34a660-3099-4e49-87df-80eb1decf2a6"
+  Hint: Enabled
+  Type: Checkbox
+  Value: 1
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: 
+- ID: "ccd35091-1a66-4ce5-a1d3-77a2ccd29142"
+  Hint: Type
+  Value: "bucket:deleteresults"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Author|pe|-item:read|pd|-item:read|
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Slet alle elementer på listen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104341Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Slet resultater
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Alle Items in der Liste löschen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Ergebnisse löschen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120326T200800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Delete results
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: リストのすべてのアイテムを削除
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105222Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: 結果の削除

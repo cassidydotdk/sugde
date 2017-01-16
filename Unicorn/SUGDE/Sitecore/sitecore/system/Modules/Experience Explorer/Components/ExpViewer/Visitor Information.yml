@@ -1,0 +1,75 @@
+﻿---
+ID: "593d668c-81c8-4dd3-8097-1a0a6fa80d6e"
+Parent: "7941d7d1-24ae-4478-beab-0227e14a1cf9"
+Template: "00a60c7a-2373-4e30-8197-920b8374509e"
+Path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Visitor Information
+DB: master
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Information om den besøgende
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104334Z
+    - ID: "4882658b-7490-4f7a-a16f-080bb4ae9e99"
+      Hint: Accordion Name
+      Value: Information om den besøgende
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Besucher Information
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104810Z
+    - ID: "4882658b-7490-4f7a-a16f-080bb4ae9e99"
+      Hint: Accordion Name
+      Value: Besucher Information
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130401T224117
+    - ID: "4882658b-7490-4f7a-a16f-080bb4ae9e99"
+      Hint: Accordion Name
+      Value: Visitor Information
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 訪問者情報
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105215Z
+    - ID: "4882658b-7490-4f7a-a16f-080bb4ae9e99"
+      Hint: Accordion Name
+      Value: 訪問者情報
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

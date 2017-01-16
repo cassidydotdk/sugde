@@ -1,0 +1,198 @@
+﻿---
+ID: "ed5f28bc-69cf-4934-84be-402fe4a5d566"
+Parent: "d012a738-7871-40df-ab6e-ea71f7137bed"
+Template: "bab68954-d9e6-464d-88e5-c207cb392aa7"
+Path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Cecile
+DB: master
+SharedFields:
+- ID: "02ee3b76-c42d-411f-82a4-d0b9069403df"
+  Hint: Device
+  Value: 
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: other/16x16/woman2.png
+- ID: "6aa5013b-9d90-473d-ae8f-f48d724eadbf"
+  Hint: Classify As
+  Value: "025 - Existing Customer"
+- ID: "867d790e-1a88-4e46-b0f5-2aa8b8231c3e"
+  Hint: Geo Ip
+  Value: 132.239.180.101
+- ID: "aeb9312e-f74e-4f37-b946-fc15013baaea"
+  Hint: Viewed Pages
+  Type: Treelist
+  Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}"
+        name="Score" />
+      <event
+        id="{66722F52-2D13-4DCC-90FC-EA7117CF2298}"
+        name="Login" />
+    </tracking>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "efa537ec-d9d1-4a38-bfa4-323713813045"
+  Hint: Image
+  Value: |
+    <image mediaid="{4B48D87B-E463-42DD-B0F2-F45C382F6204}" mediapath="/Experience Explorer/Presets/Cecile 128x128" src="~/media/4B48D87BE46342DDB0F2F45C382F6204.ashx" />
+Languages:
+- Language: da
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Executive
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Cecile
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cecile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104357Z
+    - ID: "47709594-e83e-44fd-ac19-9fcc68a9d104"
+      Hint: Tags
+      Value: "email=cecile-preset%40hotmail.com&satisfaction=4"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "69805f4a-fa0c-4834-9892-b82e7495b48d"
+      Hint: Associated Sitecore User
+      Value: |
+        Extranet\cecile
+    - ID: "cb41ca8e-18b3-4fb0-bfa1-9b99c91ebccf"
+      Hint: Referrer
+      Value: |
+        <link url="http://www.google.com?q=Jetstream+Mauritius" linktype="external" id="" />
+- Language: "de-DE"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Ausführend
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Cecile
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cecile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104833Z
+    - ID: "47709594-e83e-44fd-ac19-9fcc68a9d104"
+      Hint: Tags
+      Value: "Email=cecile-preset%40hotmail.com&satisfaction=4"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "69805f4a-fa0c-4834-9892-b82e7495b48d"
+      Hint: Associated Sitecore User
+      Value: |
+        Extranet\Cecile
+    - ID: "cb41ca8e-18b3-4fb0-bfa1-9b99c91ebccf"
+      Hint: Referrer
+      Value: |
+        <link url="http://www.google.com?q=Jetstream+Mauritius" linktype="external" id="" />
+- Language: en
+  Fields:
+  - ID: "230d7d68-3794-45de-be8a-336ef1048807"
+    Hint: Description
+    Value: 
+  - ID: "4200266b-3fd1-4ef8-8179-04d734ec4e68"
+    Hint: Age
+    Value: 
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Executive
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Cecile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0dce6b10-e502-4546-ac92-083a649a0659"
+      Hint: Visit 2
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130108T071300
+    - ID: "3e221114-187f-41f3-8345-045bf8897949"
+      Hint: Visit 4
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+    - ID: "47709594-e83e-44fd-ac19-9fcc68a9d104"
+      Hint: Tags
+      Value: "email=cecile-preset%40hotmail.com&satisfaction=4"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65321522-a323-485e-bf87-27f50222cfd0"
+      Hint: Visit 5
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+    - ID: "69805f4a-fa0c-4834-9892-b82e7495b48d"
+      Hint: Associated Sitecore User
+      Value: |
+        Extranet\cecile
+    - ID: "74633fde-acbc-45a5-9408-01bc74df3b2d"
+      Hint: Consumed Assets
+      Type: Treelist
+      Value: 
+    - ID: "b6de7fe3-4f63-4d0e-bd14-c3fac0c77c3d"
+      Hint: Visit 1
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+    - ID: "cb41ca8e-18b3-4fb0-bfa1-9b99c91ebccf"
+      Hint: Referrer
+      Value: |
+        <link url="http://www.google.com?q=Jetstream+Mauritius" linktype="external" id="" />
+    - ID: "da7754ae-8152-4ecf-936e-125617325308"
+      Hint: Visit 3
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+- Language: "ja-JP"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: エグゼクティブ
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: セシル
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: セシル
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105239Z
+    - ID: "47709594-e83e-44fd-ac19-9fcc68a9d104"
+      Hint: Tags
+      Value: "email=cecile-preset%40hotmail.com&satisfaction=4"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "69805f4a-fa0c-4834-9892-b82e7495b48d"
+      Hint: Associated Sitecore User
+      Value: |
+        Extranet\cecile
+    - ID: "cb41ca8e-18b3-4fb0-bfa1-9b99c91ebccf"
+      Hint: Referrer
+      Value: |
+        <link url="http://www.google.com?q=Jetstream+Mauritius" linktype="external" id="" />

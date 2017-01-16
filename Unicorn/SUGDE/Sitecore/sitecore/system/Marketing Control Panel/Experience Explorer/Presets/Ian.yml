@@ -1,0 +1,131 @@
+﻿---
+ID: "0ee943dc-6ffd-4786-8175-f66c2ff9e20e"
+Parent: "d012a738-7871-40df-ab6e-ea71f7137bed"
+Template: "bab68954-d9e6-464d-88e5-c207cb392aa7"
+Path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Ian
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/dude3.png
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}"
+        name="Focus">
+        <key
+          name="Practical"
+          value="0" />
+        <key
+          name="Process"
+          value="0" />
+        <key
+          name="Background"
+          value="0" />
+        <key
+          name="Scope"
+          value="0" />
+      </profile>
+      <profile
+        id="{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}"
+        name="Score">
+        <key
+          name="Lead"
+          value="0" />
+      </profile>
+    </tracking>
+- ID: "efa537ec-d9d1-4a38-bfa4-323713813045"
+  Hint: Image
+  Value: |
+    <image mediaid="{007EB5EE-55D7-4147-AA1E-AA25ED19CA6D}" mediapath="/Experience Explorer/Presets/Ian 128x128" src="~/media/007EB5EE55D74147AA1EAA25ED19CA6D.ashx" />
+Languages:
+- Language: da
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Familie
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Ian
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ian
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Familie
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Ian
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ian
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Fields:
+  - ID: "230d7d68-3794-45de-be8a-336ef1048807"
+    Hint: Description
+    Value: 
+  - ID: "4200266b-3fd1-4ef8-8179-04d734ec4e68"
+    Hint: Age
+    Value: 
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: Family
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: Ian
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130108T071300
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "5abd49c9-2db6-4299-8e03-dbbb0cb190ec"
+    Hint: Details
+    Value: 家族構成
+  - ID: "a874ab53-08df-412e-8885-edba38feb0b9"
+    Hint: Name
+    Value: イアン
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: イアン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105202Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

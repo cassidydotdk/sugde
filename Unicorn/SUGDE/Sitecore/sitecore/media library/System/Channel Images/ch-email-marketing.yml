@@ -1,0 +1,47 @@
+﻿---
+ID: "db05236e-4099-4dd8-a9d0-0320fcb740f8"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-email-marketing"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DB05236E40994DD8A9D00320FCB740F8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "baa67898-2390-486f-adee-aef7c22c9aee"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADV0lEQVR42u1YTWgTQRRua/3Dtmr1qD1UvCgexFMLgSBKxdiIhx5EtLcexKOgJ5PdDfkhEmw85SLYg4cchIq1iQi9CYKHUhRFCoogCHoItbaiJOv30jcyjPnZTXbzAzvwMdnNmzfft/vm7Zvp6fGa17zmtY5p6XR6ZzgcTgMFwOwwEKc0cawqgMmbHY50LQGFLhBQqCVANd7QNO1yu0Ka5iYOKi+rAlaoD4VCJfQRoK9VxGkumpPnJi6vGxEwDLwS13D2GP1AC8gP8FyCxxIwZFsAXScSiUF2IO4vAyMukh/hOcR888CuStwsCaCWSqV243pBehNf0Y+7QH6cfQsOD4H+WtwsCeD7O4CsJOIXFti0g4t1mnxK/u+pa64pAdSy2ew2OH6grJMk3W+UOI0lH4rPO3a5WTYyTbMX/80qEz6lRdZAyAzxWOGniAd0o1Fu1o227CKKiDfAqA3yozxGhMxvhNGVOmOcE8Bxe0vK04RvgN8CeT/byh/LgIVxzgpg++v06uUniX6mhv0M2/wrC3Rd91mcy3kB/Cauwv6PWnApKbBfLRQpZYL8SRth544AFnFJToOM57FYbD+Bfiv/fTQM46jNRe+OAM4mfRAxgf6nQvQ9Q773FjjEpcpwWwUgBE7AdhUI87WvTklOtdVBnos+jKvkoy0C8MSnYPcDeBmNRg9Iok4pWUbE/AuqrYQdjaGx5IN8tUwAfz2jnEIXksnkngpv5jj++yJXspW2gjQW/9+GgFAkEjnsugDc3wc8E8VWJpPZXs0XFukREH8EO03OSE0Ue80JoKcKQh9EDURlRSNEJvX87KSeMyugCCwH9JzPcQGcJtc4bG428ySDWv4siG5WEQHkN8jGEQGUHkFaJ+L0BQWuOVE+B43cuXoiLhq5M00JiMfje9E/4et1kD/v5AbGrohG9sTvOIN8R/yPubGFtCJChBO4zNkVQPgMHHNzE2/1TXD6nqsnwMmDrfhW1sl9YjIlCUUFpeoC/hNxv1VHi2EWYDqDytnJzcNdhwWUsTYVXnL9bEr5cDkqYD2YmB/sVgGbtOBbfkArLeLuI6+cyfQK8OFtGQFtcYIWaGeTr9IoNXrkPfJ2F7WRP9215MsCtNzd6hua/MoFY9Hf4zWvta79BeLEpBz/omILAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 912
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140826T085612Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Email marketing

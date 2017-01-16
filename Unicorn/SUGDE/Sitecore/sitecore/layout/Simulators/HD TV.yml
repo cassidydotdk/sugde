@@ -1,0 +1,93 @@
+﻿---
+ID: "69b47a34-d529-4245-90c0-0858c66582bb"
+Parent: "39522e9a-9b6e-4cb4-850c-23d0d3adfd0c"
+Template: "642f544c-e1e6-491e-93a4-8e9353079dbe"
+Path: /sitecore/layout/Simulators/HD TV
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/flatscreen_tv.png
+- ID: "4e678fc0-8d35-4ab7-bb49-156f33c8b955"
+  Hint: User agent
+  Value: "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/ 162671"
+- ID: "82e5e42d-b707-4bc2-87bb-319497bd6c93"
+  Hint: Screen Width
+  Value: 1920
+- ID: "89e13671-a39e-432b-bd99-cf27b7f0f90d"
+  Hint: Background Image
+  Value: |
+    <image mediaid="{DE305E7D-D74B-4ABB-BEA0-4A3A9D0137EF}" mediapath="/System/Simulator Backgrounds/HD TV" src="~/media/System/Simulator Backgrounds/HD TV.ashx" />
+- ID: "a820e106-a624-4e1a-8f50-d672446cdf92"
+  Hint: Screen Offset
+  Value: 176,146
+- ID: "ab6934af-a322-4bbe-ac3e-91f4a66bfbf5"
+  Hint: Scale
+  Value: "{DE4DC65E-801E-406B-A3FC-11168929E442}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DE305E7D-D74B-4ABB-BEA0-4A3A9D0137EF}" mediapath="/System/Simulator Backgrounds/HD TV" src="~/media/System/Simulator Backgrounds/HD TV.ashx" />
+- ID: "e03fc568-58b8-44e7-a410-a25208602db4"
+  Hint: Screen Height
+  Value: 1080
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HD TV
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HD TV
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110803T140900Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HDTV
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105218Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

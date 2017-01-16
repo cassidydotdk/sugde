@@ -1,0 +1,18 @@
+﻿---
+ID: "14271d5d-f718-4f51-bd56-feeabd2b1eeb"
+Parent: "7e49b0aa-5eba-4a02-852c-4744e2288ac2"
+Template: "7e49b0aa-5eba-4a02-852c-4744e2288ac2"
+Path: /sitecore/templates/System/Social/Posting Configuration/Goal Posting Configuration/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111114T144403
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

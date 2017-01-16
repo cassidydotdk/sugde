@@ -1,0 +1,47 @@
+﻿---
+ID: "9afadd9b-0d62-4dc9-8fd4-7228a45a7b7f"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Newsletter Removed
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9AFADD9B0D624DC98FD47228A45A7B7F.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2a1cb5a6-f3e1-45cf-9daf-fefd8c1001ed"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAwtJREFUeNrs3Ott2zAUgFG6yAAdJSNkhI7AUbKJR8kI6SYZwa0Bp0Cd2CIpkqao8wH6l4fte8JI9OMQQjgF7bYfHgIABIAAEAACQABoTz0lfM3Bw7TpTlYAASAABIAAEAACQAAIAAEAgAAQAAJAAGh3PXX4HaO/7+Aw+O0/WAEEgAAQAAJAAAgAbWgfwPsKrAACQAAIAAEgAASA9rMPsPXXA1gBBIAAEAACQAAIANkHcJ1tBRAAAkAACAABIABkH+BrXg9gBRAAAkAACAABIAA0zjXwKeFrZAUQAAJAAAgAASAAtP28HmC5gxVAAAgAAaDMni9Hz379PX7mnqTdO2qcBG75WDP8j8vRC0G83Ob3HAQA1L//n8P//Bk9EMSr252MAIC69/96+D0QxBu3PQlBawB7+5//ceexbIEgLsxvEQEAfYbfAkFMXMXuIgCg3/BrIogh71/ZTQQA9B1+DQQxlJ3PfIsAgP7DX4MghnUntV8QAPCY4ZcgiKHOlc1/CAB43PBzEMRQ9/L2HwIAHjv8FAQxtNnjeO/xXMCsW721O/81vn2D4Dz8Y6Pf+dtO4FirwPVKEBve76Ot4DpP9rRC8Npj+ACMeT5w6jV8AMY9KewyfADGvjJoPnwAxr88bDp8ALaxR9Bs+DaCtrNR1GT4AMyL4Fhridb2EGTtHAIwF4LsbWMA5kFQ9JwBAHMgKH7CCIA+vTYG8AzAuMUOy3/xawxn3wjaw/BXIQBgjuEXIwBgnuEXIQBgruFnIwBgvuFnIQBgzuEnIwBg3uEnIQBg7uEvIrARNP/w7yIAYB/Dv4kAgPGGf37f3kvo8+YTAAYc/uc7d7u8AwmAvF46DT90QgBAQcdOw2+NIAIwBoKUj3OrjSA6BxgDQc6netZCEEfaqHnk8fZgBFkf6VoJQRxtp27rAEoRlAx/LYI44lbtDAByEawZfimCOOpe/SwAUhHUGH4ugjjykzUzAVhCUHP4qQji0g8AoA+CFsNfQhBTvhmA9ghaDv8Wgpj6jQC0RdBj+NcIkof/R4ABAGqTLUhyNPucAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 873
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104937
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Newsletter removed

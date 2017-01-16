@@ -1,0 +1,33 @@
+﻿---
+ID: "ad582cea-81a7-4c07-8628-549ed1115fb2"
+Parent: "10e23679-55db-4059-b8f2-e417a2f78fcb"
+Template: "10e23679-55db-4059-b8f2-e417a2f78fcb"
+Path: /sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Element Placeholder/__Standard Values
+DB: master
+SharedFields:
+- ID: "0789f313-0e00-4e40-801b-9a4002505ba7"
+  Hint: Position
+  Value: "{FDBF46B4-5B52-4C7A-A254-B588EC52944E}"
+- ID: "8d4e863f-9be1-4572-a684-be6d93578d5b"
+  Hint: Type
+  Value: Sitecore.FXM.Matchers.Element.ContentElementMatcher, Sitecore.FXM
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"></d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140515T150458
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

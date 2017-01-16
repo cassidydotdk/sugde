@@ -1,0 +1,45 @@
+﻿---
+ID: "bcac5cac-9274-4b26-ad6a-ac7532f4f119"
+Parent: "b99b5d85-64f1-4c19-8bfc-f96726bfe2e2"
+Template: "b99b5d85-64f1-4c19-8bfc-f96726bfe2e2"
+Path: /sitecore/templates/System/Path Analyzer/ExperienceMap/__Standard Values
+DB: master
+SharedFields:
+- ID: "115963ea-0cc0-4d91-82c1-6ed0e1afb4dc"
+  Hint: IncludeEntryPage
+  Type: Checkbox
+  Value: 1
+- ID: "9cc91123-a56b-4628-98e5-e5f639d558eb"
+  Hint: IncludeCampaign
+  Type: Checkbox
+  Value: 1
+- ID: "a87e94ef-d136-4fed-b69f-d69caac3ec8d"
+  Hint: MapItemType
+  Value: Sitecore.PathAnalyzer.Data.Maps.MapItem,Sitecore.PathAnalyzer
+- ID: "d6fedcfd-4d9b-44c7-910e-3672ef8e0316"
+  Hint: IncludePageEvents
+  Type: Checkbox
+  Value: 1
+- ID: "e39b8257-0419-460f-810e-2224b8220537"
+  Hint: MapType
+  Value: "{B57186C2-1AE3-46D4-83A9-8947E0491F61}"
+- ID: "ebf6b297-b414-46ec-9e70-4073cd3ae390"
+  Hint: IncludeExitPage
+  Type: Checkbox
+  Value: 1
+- ID: "f96a23a8-88fb-4304-b8f2-cd9932bd2f9a"
+  Hint: IncludeChannel
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150710T001123Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

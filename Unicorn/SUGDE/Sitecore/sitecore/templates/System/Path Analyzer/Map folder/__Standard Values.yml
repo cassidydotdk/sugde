@@ -1,0 +1,27 @@
+﻿---
+ID: "04382446-d18d-435f-a709-c756823cb764"
+Parent: "c5e5c40c-8bc7-47d8-94ed-e3b857d086c0"
+Template: "c5e5c40c-8bc7-47d8-94ed-e3b857d086c0"
+Path: /sitecore/templates/System/Path Analyzer/Map folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}"
+- ID: "83798d75-df25-4c28-9327-e8bac2b75292"
+  Hint: __Insert Rules
+  Type: TreelistEx
+  Value: "{B501BECB-4030-4E6C-8B39-AD0B76E57A76}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150713T223345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

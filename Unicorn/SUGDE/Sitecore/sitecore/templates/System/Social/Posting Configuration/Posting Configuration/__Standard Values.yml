@@ -1,0 +1,27 @@
+﻿---
+ID: "949122ef-6ee7-46d9-ac46-43ee3cf084f8"
+Parent: "f9cb72d5-5399-4b86-ac51-402b81d5d43c"
+Template: "f9cb72d5-5399-4b86-ac51-402b81d5d43c"
+Path: /sitecore/templates/System/Social/Posting Configuration/Posting Configuration/__Standard Values
+DB: master
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Social Message Author|pe|+item:write|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130828T154800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

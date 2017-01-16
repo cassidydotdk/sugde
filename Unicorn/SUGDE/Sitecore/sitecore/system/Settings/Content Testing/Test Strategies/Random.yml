@@ -1,0 +1,22 @@
+﻿---
+ID: "4cfcfc60-f4ba-4876-8824-a2659dd4030d"
+Parent: "938c20b4-78be-4d2a-8999-7e4714c32e78"
+Template: "314be5b0-8536-45cf-900d-a84b2b335210"
+Path: /sitecore/system/Settings/Content Testing/Test Strategies/Random
+DB: master
+SharedFields:
+- ID: "3d445351-a7d8-4c5f-a009-9af499b44c6e"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Strategy.RandomMultiVariateTestStrategy, Sitecore.ContentTesting
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090603T121800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

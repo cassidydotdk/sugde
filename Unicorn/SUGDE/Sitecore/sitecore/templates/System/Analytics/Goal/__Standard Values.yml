@@ -1,0 +1,26 @@
+﻿---
+ID: "9a5b6e1f-5e5f-4958-9a3c-391579713fe9"
+Parent: "475e9026-333f-432d-a4dc-52e03b75cb6b"
+Template: "475e9026-333f-432d-a4dc-52e03b75cb6b"
+Path: /sitecore/templates/System/Analytics/Goal/__Standard Values
+DB: master
+SharedFields:
+- ID: "ac3bc9b6-46a2-4ead-af5e-6bdb532eb832"
+  Hint: IsGoal
+  Type: Checkbox
+  Value: 1
+- ID: "ac6ba888-4213-43bd-b787-d8da2b6b881f"
+  Hint: Name
+  Value: $name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20081118T112804
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

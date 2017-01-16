@@ -1,0 +1,47 @@
+﻿---
+ID: "24e39479-6bb1-4e83-b4a5-ad1a1d6b7498"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-twitter-post"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/24E394796BB14E83B4A5AD1A1D6B7498.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f6f46e58-5cb2-41ee-83ed-bc411089da54"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqtJREFUeNrsmUtoE1EUhjOptaiIi1ooWBcqFURERMRiFz4QulFRqaDb7hQVBcEKyiQEKcWKLtSFbirufKAVXBRx4QMfiAul4qML66sIiqCILmyJ38VTCMPNZCaZeycDc+FjMsnNyZy5557zn4xTLBYzSR7ZTMJH6kDqQI1jWulJPp+PakcrO9/gLgzAE90k13XrdgUcaIFueAi9SQ4h9Rt9kDMeQp7ldSp9mZDT2TsAJ3Qm5Zir5xWYgNOe98Y8Trj1HkITnvP1HidyUTphYw+MmXTCVh3QOsEe6k2KA+WcOI4Tq41koSoKnONT1Pxu4CHYkWQpsTbpWmiu8RAqV9Q0haxSOOmKnWPcAQN1Qgm8gXoWc/HIaUNZKG1orO6BZ9mOGRxa4V2luVsKw1Mv58AZ2AUNJVOewn54DOugBwo3j3WNmsxCHXAFNsOjAOab4A6s1Hy2Ch7AC1gBJ2HUdAgthWa4DRsDzD9c5uKnRoNcvOrsPsM+0w7MlOMsceIoNPrswZ4ANidhjdSPYdNZ6K3n/QLslMJ1Gf6UfDYd5gewrVbhPmyCn6ZX4AaMa8JqEJ7DObV/oR3a4HdAuxe9F2+qEmdlAw/JBZaOdmG3nH/xCS/vaLSlhVTaWy6hNK9CgWsNcWO+2tJCH+CUAbsjtirxdXgVsU2V+9/Y0kJq7nYpQM0ROTBkWwu9hk64FCLL+I3BOMTcQpgNv2q0cxVe2u7I1PgIWyNofg7GJadHpPyP12BjD3yKsx9QanSZCLBr8DfEd8/Char7gSoedpQrWN9F67eFsHUe9sbV1C+CH6JKF2f+P+ToDphS1U07Av1x/iuxTSTykipyvSuCL/iyR/2gmzZRhdIGEXRdsEC6Lp3Gfw+3JFXeC/obtJTmHEj/lUgdSB1IHQg1/gkwAOMRn2/OuG/YAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 777
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141528Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Twitter post

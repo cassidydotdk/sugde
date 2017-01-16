@@ -1,0 +1,101 @@
+﻿---
+ID: "75750e38-c32c-47d5-b8e4-7666fab2b232"
+Parent: "f3cd0053-b3f0-41a9-8aba-8c0265093854"
+Template: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Outcome maps
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {8E0368F9-E07D-4906-8D07-15D981028EC5}
+    {C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}
+- ID: "5b9f5881-8542-4aca-967b-2ab8ce815d07"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{B5772885-5FC0-49B1-A7C8-110CD6C72A1D}">
+        <conditions>
+          <and
+            uid="DA38E65530FD4A0E9AE700FB8161F837">
+            <condition
+              id="{B62458B6-59D1-4BEA-9E9F-FC0BED2E80C2}"
+              uid="9B78E89D6F4F493680B3FB70653C5DBA" />
+            <condition
+              id="{913A642D-9FE7-46BF-BE5C-DB31FB6C5602}"
+              uid="769B6E9005714808B9A09AE966E22DF6"
+              operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+              value="$name" />
+          </and>
+        </conditions>
+        <actions>
+          <action
+            id="{F0FDE44B-B200-416C-A048-C833D4106CA6}"
+            uid="7EB9CFFBB8BE4CAFAD0B7C01ECFB7095" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Resultatkort
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104338Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ergebniskarten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104814Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150618T211618Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 結果マップ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105219Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

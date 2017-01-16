@@ -1,0 +1,40 @@
+﻿---
+ID: "a7662f36-9cf2-4fda-9844-3cdbca91e6f1"
+Parent: "696fac52-92b8-4ff0-9f9e-e8b997110469"
+Template: "a90f48c4-4d4f-41d7-8497-070a9a50304e"
+Path: /sitecore/system/Settings/Content Testing/Report Queries/Calculated Cluster Data By Test Id
+DB: master
+SharedFields:
+- ID: "72b1c86f-ae19-4534-abcf-0692378d41cf"
+  Hint: Data Source
+  Value: reporting
+- ID: "a61cc636-3272-4fb6-bcf9-762940047a78"
+  Hint: Query
+  Value: |
+    SELECT 
+           TC.[TestId]
+          ,TC.[ClusterId]
+          ,TC.[FeatureName]
+          ,TC.[FeatureValue]
+      FROM [Testing_Clusters] TC 
+    	INNER JOIN [Testing_ClusterMembers] TCM ON TCM.ClusterId = TC.ClusterId	
+      WHERE 
+    	TC.[TestId] = @TestId
+      GROUP BY 
+           TC.[TestId]
+          ,TC.[ClusterId]
+          ,TC.[FeatureName]
+          ,TC.[FeatureValue]
+    ORDER BY TC.[ClusterId] ;
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151217T085052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

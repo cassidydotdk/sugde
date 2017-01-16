@@ -1,0 +1,47 @@
+﻿---
+ID: "6a32b50a-b56c-42ac-be9e-5427038f97d9"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-advertising"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6A32B50AB56C42ACBE9E5427038F97D9.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ac9b07f1-16b7-4df1-9a7d-91a911cbe441"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACC0lEQVR42u2Zu0vDUBSHq/gaxEEXwUFEHEpBcBBEEPwHHF1E0EUQBwVRRASTPnDpIHTr5OQkncTR3Y5aBTfRQdBJRFGUGr9IhlDaem+btCclBw4nw+Xk+933IxIJLbTWMtM004ZhfNoxcPDJZHIE8G/csmOg4BOJxCQ1/+jA/3lg4AFfBfjDDR8IAalUagjQ01Jw8QKy2WxnPB7fAPKlErxIAUC1Az5PvK0GLk4AML2ArxBvVMCbLoCfdzEljjE4F/k+Jr6WAXzD73wTkMlkukmS+a+f1uB2vgNswBF76IsAB95L8CtaYp3Y5/4PXWvOLwE11zygX8QH/AzAHRapWIWVd5Qyec8E2PsP11Lu9i28w8NVN0a+I0dotcp4ogKWdASUg7fs8eDFTATwAvGc+KPRokV8WvUnlZJotYBdFh+kpmeA3XRW2/c6xk+uXgHN9uegCyiGLdBkz9U1CzW7++jMQmlhIvTWAa9WYq9c2l6osQJ83I22zHmgcQIYSIapYZTfBXpczImMZPe6Ux8CpsSciUm2rCMAyG1xtxIkPNEQobRzbei9EAn77T2JooAekTdz9vhUEcA5YELk3ShTY1SxBUyxt9MkLigIuBb7PkDifcVuFJP6CBFVnEoNyc9ABYW7oQvJAlS6UV7yw8SwwjXJmvTXxFn80jnylZ6i9izLaouEFlpoobW8/QK/XKOQWvVSHAAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 580
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141531Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Advertising

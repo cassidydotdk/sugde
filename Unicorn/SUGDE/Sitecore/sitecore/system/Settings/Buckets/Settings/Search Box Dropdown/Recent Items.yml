@@ -1,0 +1,101 @@
+﻿---
+ID: "795842d3-3d69-49c3-8a42-b261868fa58f"
+Parent: "00e978ae-076d-402f-b540-b1aca5bc65a1"
+Template: "9f63f3ed-bfb8-49a3-b370-1830e0a5920f"
+Path: /sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "Business/32x32/date-time_preferences.png"
+- ID: "37fe9542-c8e7-41d6-95b0-ae559a48eb04"
+  Hint: Command Name
+  Value: id
+- ID: "ccd35091-1a66-4ce5-a1d3-77a2ccd29142"
+  Hint: Type
+  Value: Sitecore.Buckets.Search.SearchDropdowns.RecentlyModified, Sitecore.Buckets
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ændret for nylig
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104339Z
+    - ID: "39d0a502-8aec-4ee6-8b9e-3c31ccb579c8"
+      Hint: Display Text
+      Value: Liste over elementer, der er blevet ændret for nylig.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Ændret for nylig
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kürzlich modifiziert
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104815Z
+    - ID: "39d0a502-8aec-4ee6-8b9e-3c31ccb579c8"
+      Hint: Display Text
+      Value: Liste der kürzlich modifizierten Items.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Kürzlich modifiziert
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Recently Modified
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111103T102200Z
+    - ID: "39d0a502-8aec-4ee6-8b9e-3c31ccb579c8"
+      Hint: Display Text
+      Value: List of recently modified items.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Recently Modified Items
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 最近更新されたアイテム
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105220Z
+    - ID: "39d0a502-8aec-4ee6-8b9e-3c31ccb579c8"
+      Hint: Display Text
+      Value: 最近更新されたアイテムのリスト
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: 最近更新されたアイテム

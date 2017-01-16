@@ -1,0 +1,29 @@
+﻿---
+ID: "8342d165-5201-4965-8cae-60870fc5221e"
+Parent: "0771b0a2-5bcf-4f87-91de-13474618b6bf"
+Template: "0771b0a2-5bcf-4f87-91de-13474618b6bf"
+Path: /sitecore/templates/System/Analytics/Patterns/Pattern Cards/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{4A6A7E36-2481-438F-A9BA-0453ECC638FA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+- ID: "ebbd173c-4c25-4b83-a67c-87ff59fbfa2d"
+  Hint: Matching
+  Value: "N-Dimensional Euclidian Distance"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110210T005300
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "bf506f4c-ddc2-4e4f-97da-ff8f551e4d01"
+Parent: "207eb49c-4f7f-4511-a8d1-2f6390caff3e"
+Template: "207eb49c-4f7f-4511-a8d1-2f6390caff3e"
+Path: /sitecore/templates/System/Content Testing/Tasks/Rebuild Index Command/__Standard Values
+DB: master
+SharedFields:
+- ID: "4bc75539-d5c4-487b-af35-ff13d62bd286"
+  Hint: Method
+  Value: Process
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Tasks.RebuildIndex,Sitecore.ContentTesting
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140807T094907
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,115 @@
+﻿---
+ID: "5aab20c6-37a5-4b4b-9c7e-0a1056d9fff4"
+Parent: "b34d1fe9-863b-426f-92a9-c8ebc22e30d6"
+Template: "b99b5d85-64f1-4c19-8bfc-f96726bfe2e2"
+Path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Experience maps/Experience map with value goals only
+DB: master
+SharedFields:
+- ID: "115963ea-0cc0-4d91-82c1-6ed0e1afb4dc"
+  Hint: IncludeEntryPage
+  Type: Checkbox
+  Value: 0
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{B879D176-4226-4C74-9ED4-6E61E813CBF7}"
+- ID: "b9ce0173-7fbf-4684-922b-68e7ceb39775"
+  Hint: IncludeGoalsWithValue
+  Type: Checkbox
+  Value: 1
+- ID: "d6fedcfd-4d9b-44c7-910e-3672ef8e0316"
+  Hint: IncludePageEvents
+  Type: Checkbox
+  Value: 0
+- ID: "eb18986f-0886-4d3c-ba5b-ae8ea21301bb"
+  Hint: IncludeOutcomes
+  Type: Checkbox
+  Value: 1
+- ID: "ebf6b297-b414-46ec-9e70-4073cd3ae390"
+  Hint: IncludeExitPage
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Oplevelsesoversigt kun med værdimål
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104334Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: Oplevelsesoversigt kun med værdimål
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Erfahrungskarte mit Wert Zielen nur
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104810Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: Erfahrungskarte mit Wert Zielen nur
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150710T010601Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: Experience map with value goals only
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: バリュー ゴールのみを含むエクスペリエンス マップ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: バリュー ゴールのみを含むエクスペリエンス マップ

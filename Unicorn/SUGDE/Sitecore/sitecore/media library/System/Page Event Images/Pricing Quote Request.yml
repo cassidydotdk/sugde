@@ -1,0 +1,47 @@
+﻿---
+ID: "30e68347-3d15-4836-bd67-d9fb4ba3a09c"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Pricing Quote Request
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/30E683473D154836BD67D9FB4BA3A09C.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "085e6bb9-403f-494b-b266-ea021a1bfb59"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA6BJREFUeNrs3e9x0zAYx/GnHO8JG5gNtEHcDcoEmA1gA2/ACG0noExgmCBhgmaDsIGxLs5x10tqEcfSIz3f352vL/onivSxKlmqeiPT6YUc82e4bodrW8obekOb/ldWw9UNlwMACBwAQOAAAAIHABA4AIDAAQAEDgAgcAAAgQMACBwAQOAAAAIHABA4AIDAAQAEWT4s6mdeucU30v4K7/vUtc8RgTUAIAAACADwD0FvHYFlALIggGwQAMA4AgAYRwAA4wgAYBwBAIwjAIBxBAAwjgAAxhEAwDgCABhHAADjCABgHAEAjCMAgHEEACgYwU1gBSz9GtoBaI0/s+g9AOwCmF2/bAs3nrcFvRe/974ZP/qu8Wm4djSxjUFgI6d38H5TWJ/X3m1sHkA18fp3hSMwD6CdeP3vSnvWayGYFQuDwJXScvnjZm9TF4JZQHoEACBMA0O6cTcO+KoXn1sHDBLbC+7Mn+N0kmlgokHKseE2ku5Ze8MgO34BVwEj+5hXDYB4BXQJ7/hU08ikADSNAXzjdwqnbVqnkcXNAu6VVvYvBoHLd1FfROemi00ElIwBhjwra/jniD2SeQAhx7Acp2SnGmRqxtDRw+oeBIZMsz6OD2ZIgYPAqW52S+PbmAWcC49jjQMgACAAIAAgACAAIAAgpgBUNFPZAHYBABqaqlwAIVuj/cqc/zOvmiaLn5KXg7sRliu8ftUXsBEdewDuAJCugJ3o2QS6AkD8AvpK17IjeBMRAQBeIOgUIQBAogL6TaJ7BQhaAKQtYDP+Tk6FYV86gJxOCavOPBX8NPGgyD9n+HriZ60DHzD5/YhPCwPQUL/ZdlGtXL4rOGT62ZZcv9YXgx4C7u51yRXAaqDIb8tvHgDGAwAAEAAQABAAEAAQANjLOwDYjV9+ntoFtANAmanksE5QTXxd0U8KNa0G1nJY2asuaMjXvsefL7A9ceeHbgT9sHAvwGqgHHbmajwlLMb5QuY3hNRKG7+XONvFzS8H10p/PX4WBef5MwhM1/gPVEOcLqoSXQdE1oXVbxYFbCT9FvCm0Bssm2lgdWEjrCfuWj+FezzzOQ3/GYRp4My0wlGxDAIJAAgAiEUAU/v6H2nmwueprwwE76nffKaBc+OngsfVRD+t+yF5PM1LWr8lAci5h01WvwwCGQQSABAAEAAQABAAEFOJ8Y8je6qZHoAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACARM1fAQYAba842ceZsW8AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1022
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104937
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Pricing quote request

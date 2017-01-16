@@ -1,0 +1,22 @@
+﻿---
+ID: "281c5340-3b57-43be-ab95-3cac9450139b"
+Parent: "68ee5149-a463-41b8-b413-e868166ba479"
+Template: "68ee5149-a463-41b8-b413-e868166ba479"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Outcome/Outcome group taxonomy/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150506T130755Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

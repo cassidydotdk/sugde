@@ -1,0 +1,26 @@
+﻿---
+ID: "9455b378-b97b-4400-ae0e-c90ce5d40b38"
+Parent: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/templates/System/Workflow/Command/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{66882E97-C8AA-4E37-8901-7A8AA35ED2ED}"
+- ID: "f1090046-2f13-4f19-bb41-c75df4f89516"
+  Hint: Comment Template
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140123T114343
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

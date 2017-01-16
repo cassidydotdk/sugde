@@ -1,0 +1,48 @@
+﻿---
+ID: "8ed7307e-81b5-43a6-b356-0b3c0868b926"
+Parent: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Template: "98360c58-f51f-43a4-b057-9ef459c0ff10"
+Path: /sitecore/templates/System/Path Analyzer/MapGroup/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1A0C1FE0-7956-4020-981B-4CEA3C4F114A}
+    {C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}
+- ID: "5b9f5881-8542-4aca-967b-2ab8ce815d07"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{B5772885-5FC0-49B1-A7C8-110CD6C72A1D}">
+        <conditions>
+          <condition
+            id="{5F804210-DC32-4EF1-9430-1D342189961E}"
+            uid="2B83D54183CA476D939646DAE0FBED69" />
+        </conditions>
+        <actions>
+          <action
+            id="{F0FDE44B-B200-416C-A048-C833D4106CA6}"
+            uid="7EB9CFFBB8BE4CAFAD0B7C01ECFB7095" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "83798d75-df25-4c28-9327-e8bac2b75292"
+  Hint: __Insert Rules
+  Type: TreelistEx
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140611T155606
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

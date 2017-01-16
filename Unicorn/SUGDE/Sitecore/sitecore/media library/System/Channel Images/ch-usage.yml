@@ -1,0 +1,47 @@
+﻿---
+ID: "8e6deb80-cceb-4881-aade-7ce85dc0c633"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-usage"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8E6DEB80CCEB4881AADE7CE85DC0C633.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3c287720-9fc3-4065-97a8-f22b3c96685e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACZElEQVR42u2ZQUvcQBTH12qpVy89+AHa2puU3j146FVkZpZeqlDEttA99iI0vQmChwjWmSh6LIL4JSzoN+hNSysUkkn31EL3MH1vE+PbJLuCis7gPPiT7OxC3i/z3n8y2UbDhw8fPqyJMAwfBEEQgtogY5kwpxBz7AuQJ28sVzgIoO0AQHsQgHFBHsADeIC7AGDbIntrALESj1LFP+DROQCzy4a1EidacQM6dg5Ab7AXefJdxVvNcbcApPhCARLFp50BaK+/HIOk/1IArVjLGQBo3MXe5EFSSOsA4Mf3dCTmUXhelI9ihxUAxQ+sA0CLPEswVeItjiWRmCBJd8h5akxj6FYAfm82JzNLFCd4nrvM01Kd/zjenhuFZl0mZYONnNY5Ea4NaK+oi9aJSwHEUXNKSx5A0p/gIpokqhMlnsPxqFwmieTv4XhajGVWelDnRDriO+egbK9bing9Iszh0gBZ8pU6PtO/PuN0Rk67ixk0b9mJfn2eeVh1qRpBDtcJoEszkSniH7F8KrMBpZQ3dKvsRPDd0oXJXxWgKCEQXjDeYo+zXuiBODLB1EgS8XcVAGjmPNlp6kRGLtyH48+6hMEU9q+thPoFbehEzj7BMWze3llgh0WzQuNSJwK3apLPCLIK+gPja9SKb3whSyV7Q0rldbFWgHVSJ4I7+42U2ZI1KzHePXChV6jynaRORBsem9nq/QB5sJM1zb9j/YaGPFq0ygBxxJ45A1ByImzyr05sKfs4EZQPE04BZGVUbC+/41rgHMBVNvh377WKqy+2Og4AdAYBrFgOgbmt+D8DffjwYU/8B3N/GubdhAgOAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 669
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141538Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Usage

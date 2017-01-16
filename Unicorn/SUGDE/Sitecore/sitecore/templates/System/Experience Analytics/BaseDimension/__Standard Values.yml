@@ -1,0 +1,26 @@
+﻿---
+ID: "62118b1a-457d-4f0e-bc60-09c0b5e587ef"
+Parent: "8ee1e53d-04b0-464f-8948-6c02c31bfd00"
+Template: "8ee1e53d-04b0-464f-8948-6c02c31bfd00"
+Path: /sitecore/templates/System/Experience Analytics/BaseDimension/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{A87EE256-044E-450D-A73C-9A464AA773EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140613T152502
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a6302f86-e82b-4bda-ab63-639395e1b614"
+      Hint: Name
+      Value: $name

@@ -1,0 +1,18 @@
+﻿---
+ID: "3b4aaac3-d985-4315-a2da-3fbfac27c336"
+Parent: "d7851f00-e869-4f93-81f5-b5338eff58a9"
+Template: "d7851f00-e869-4f93-81f5-b5338eff58a9"
+Path: /sitecore/templates/System/Social/Message/Facebook Message/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111004T151916
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,85 @@
+﻿---
+ID: "03faf4b1-cab7-4306-beef-64e2e366931c"
+Parent: "51cafbda-a980-4deb-989a-ad288d76f5d7"
+Template: "e360bed5-b72b-4c02-890f-e434486de3f1"
+Path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience/Preset
+DB: master
+SharedFields:
+- ID: "64461e27-1c6a-4aa2-bda8-44e5316ef09e"
+  Hint: Method
+  Value: GetViewerExperiencePresets
+- ID: "ad8d5f6d-d0a3-4f86-a4e7-c29ff7427597"
+  Hint: Path
+  Value: /sitecore modules/Web/ExperienceExplorer/Controls/Experience/Settings/PresetsViewer.ascx
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Forudindstilling
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104322Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Forudindstilling
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Voreinstellung
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Voreinstellung
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130401T204659
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Preset
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: プリセット
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: プリセット

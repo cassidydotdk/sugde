@@ -1,0 +1,22 @@
+﻿---
+ID: "f29e3a3b-a604-43a5-b3a9-62d988789b62"
+Parent: "1068d8a1-1f0d-42fd-bb7c-4a5223460076"
+Template: "1068d8a1-1f0d-42fd-bb7c-4a5223460076"
+Path: /sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Fragment Action/__Standard Values
+DB: master
+SharedFields:
+- ID: "8d4e863f-9be1-4572-a684-be6d93578d5b"
+  Hint: Type
+  Value: Sitecore.FXM.Matchers.Element.FragmentEventElementMatcher, Sitecore.FXM
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140529T145115Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

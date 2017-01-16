@@ -1,0 +1,89 @@
+﻿---
+ID: "f813cf67-7e37-445e-a105-f7c3f478dd2c"
+Parent: "8ff16827-b2ad-4cb9-8aae-9f105da1d7b9"
+Template: "9f63f3ed-bfb8-49a3-b370-1830e0a5920f"
+Path: /sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Add Tag
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/bullet_ball_red.png
+- ID: "5e34a660-3099-4e49-87df-80eb1decf2a6"
+  Hint: Enabled
+  Type: Checkbox
+  Value: 1
+- ID: "ccd35091-1a66-4ce5-a1d3-77a2ccd29142"
+  Hint: Type
+  Value: "bucket:addtag"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tilføj tag
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104358Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Tilføj tag
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tag hinzufügen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104835Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Tag hinzufügen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120207T104100
+    - ID: "39d0a502-8aec-4ee6-8b9e-3c31ccb579c8"
+      Hint: Display Text
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: Add tag
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: タグの追加
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105241Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d9bdf564-ff37-4564-b943-00d4d89c19f1"
+      Hint: List Name
+      Value: タグの追加

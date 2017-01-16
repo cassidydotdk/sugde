@@ -1,0 +1,31 @@
+﻿---
+ID: "ce5a2e66-d035-4eb9-b8bc-1b28b21880b0"
+Parent: "54dae7cd-bfd8-4e69-9679-75f2ae9f9034"
+Template: "54dae7cd-bfd8-4e69-9679-75f2ae9f9034"
+Path: /sitecore/templates/System/Rules/Taxonomy/Element Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: core2/32x32/flow_chart.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F0D16EEE-3A05-4E43-A082-795A32B873C0}
+    {F90052A5-B4E6-4E6D-9812-1E1B88A6FCEA}
+- ID: "78003371-b463-4f9a-8a26-2d88cdcd1435"
+  Hint: Group
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120712T172900
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

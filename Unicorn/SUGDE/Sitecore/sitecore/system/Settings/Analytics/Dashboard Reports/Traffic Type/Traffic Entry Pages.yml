@@ -1,0 +1,93 @@
+﻿---
+ID: "614891d8-f5f2-4d8f-9a1e-5b3aec0ff91e"
+Parent: "12bd157e-7d90-4d9a-9d3a-36a294de96d2"
+Template: "f960e028-5373-48bf-b3b3-9b23fe13c0c4"
+Path: /sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Entry Pages
+DB: master
+SharedFields:
+- ID: "46fb3cb4-4740-4680-bb76-63a15ef25907"
+  Hint: SqlServer
+  Value: |
+    SELECT
+      [Month] AS [Date],
+      SUM( [Visits] ) AS [Visits],
+      SUM( [Value] ) AS [Value],
+      [ItemId] AS [FacetId],
+      [Multisite] AS [Site],
+      [Url] AS [FacetName]
+    FROM
+      [TrafficOverview]
+    WHERE
+      1 = 1
+      {Filters}
+    GROUP BY
+      [Month],
+      [Multisite],
+      [ItemId],
+      [Url]
+    ORDER BY
+      [Month]
+    
+- ID: "49fa57d8-e607-49f5-bb07-981b8fe5e005"
+  Hint: Report Name
+  Value: TrafficEntryPages
+- ID: "a9c8d7c7-a170-4305-a40f-df6cf543c007"
+  Hint: Oracle
+  Value: 
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Trafikstartsider
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Traffic Einstiegsseite
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104811Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101213T141800
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: エントリー ページ毎のトラフィック
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105216Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

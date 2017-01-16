@@ -1,0 +1,35 @@
+﻿---
+ID: "4a8babf3-b7f3-44ed-8997-92e36e0b8df7"
+Parent: "1ad02405-7207-4962-ba96-6d6c3ba30ba7"
+Template: "1ad02405-7207-4962-ba96-6d6c3ba30ba7"
+Path: /sitecore/templates/System/Analytics/Profile Cards/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0FC09EA4-8D87-4B0E-A5C9-8076AE863D9C}
+    {448C4D57-F0F1-4278-8AB8-93DB46C94F1B}
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}"
+- ID: "a653241d-eda4-49a4-a259-9f7c5613f2ac"
+  Hint: Authoring Selection
+  Value: "{C4960DD5-8B07-4025-8E48-57C3BC578CE1}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101129T100000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

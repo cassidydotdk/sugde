@@ -1,0 +1,23 @@
+﻿---
+ID: "e8ea2634-c8e1-4251-ad4d-819399a67b6a"
+Parent: "349cda24-cab7-4991-ba2e-86116017995c"
+Template: "349cda24-cab7-4991-ba2e-86116017995c"
+Path: /sitecore/templates/System/Content Testing/Behaviors/Rule Container/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{349CDA24-CAB7-4991-BA2E-86116017995C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140721T165024
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

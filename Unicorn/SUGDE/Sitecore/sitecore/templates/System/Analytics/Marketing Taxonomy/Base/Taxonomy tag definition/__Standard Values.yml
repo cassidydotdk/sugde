@@ -1,0 +1,28 @@
+﻿---
+ID: "4aaa7fe7-5ae8-439b-8fa2-6b1dc3ed05dc"
+Parent: "1692f043-d814-4f7c-989b-6dd97ec63593"
+Template: "1692f043-d814-4f7c-989b-6dd97ec63593"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxonomy tag definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/star_yellow.png
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141029T203101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

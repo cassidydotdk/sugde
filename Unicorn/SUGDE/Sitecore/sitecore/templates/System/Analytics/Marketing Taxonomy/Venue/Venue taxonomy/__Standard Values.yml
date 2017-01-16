@@ -1,0 +1,26 @@
+﻿---
+ID: "32a09b94-49eb-46b1-8247-ce9a895b3433"
+Parent: "5dc4b859-c1ec-42f9-8b8b-6e665e12ca60"
+Template: "5dc4b859-c1ec-42f9-8b8b-6e665e12ca60"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Venue/Venue taxonomy/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/routes.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6A31148C-9531-4146-B2BE-61172547423E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150611T125035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

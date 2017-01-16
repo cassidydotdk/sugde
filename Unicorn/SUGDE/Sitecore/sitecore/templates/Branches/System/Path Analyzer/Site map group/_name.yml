@@ -1,0 +1,18 @@
+﻿---
+ID: "f3cd0053-b3f0-41a9-8aba-8c0265093854"
+Parent: "31c40412-8ae7-44bf-868d-d3721b4d123d"
+Template: "dfa646fe-94f1-4d3c-a07f-cb10d06be480"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150714T170601Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

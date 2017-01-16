@@ -1,0 +1,80 @@
+﻿---
+ID: "38d3ef6c-497b-44d8-ac0e-3ef6de427bbc"
+Parent: "88ca41b4-1661-4c75-8c98-1d952f56d815"
+Template: "5cace390-e862-4acc-bfd5-2f26c5883f45"
+Path: /sitecore/layout/Simulators/iPhone/iPhone Landscape
+DB: master
+SharedFields:
+- ID: "82e5e42d-b707-4bc2-87bb-319497bd6c93"
+  Hint: Screen Width
+  Value: 667
+- ID: "89e13671-a39e-432b-bd99-cf27b7f0f90d"
+  Hint: Background Image
+  Value: |
+    <image mediaid="{5217AD9F-7E79-44CA-8FD1-6B7389C48125}" />
+- ID: "a820e106-a624-4e1a-8f50-d672446cdf92"
+  Hint: Screen Offset
+  Value: 107,30
+- ID: "ab6934af-a322-4bbe-ac3e-91f4a66bfbf5"
+  Hint: Scale
+  Value: "{85C66A5B-220A-48A2-89D1-51412B3B4124}"
+- ID: "e03fc568-58b8-44e7-a410-a25208602db4"
+  Hint: Screen Height
+  Value: 375
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: iPhone i liggende format
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104329Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: iPhone Querformat
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104804Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110913T173100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: iPhone （横長）
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

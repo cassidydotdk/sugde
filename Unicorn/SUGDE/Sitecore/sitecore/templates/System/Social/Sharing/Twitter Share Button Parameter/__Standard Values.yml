@@ -1,0 +1,28 @@
+﻿---
+ID: "326f9d07-db35-4ea5-8eee-cc87510cc033"
+Parent: "59db2d94-1a12-4511-8f3a-3bf5c802a613"
+Template: "59db2d94-1a12-4511-8f3a-3bf5c802a613"
+Path: /sitecore/templates/System/Social/Sharing/Twitter Share Button Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120703T114328
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "747f8f55-e617-4e3b-bd99-d0ac554b2940"
+      Hint: Goal
+      Value: "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}"
+    - ID: "c60e2ebd-8870-4323-89d2-4b755c1cb108"
+      Hint: Campaign
+      Value: "{A221152F-E51C-419D-A09A-DE1C4185FFDE}"

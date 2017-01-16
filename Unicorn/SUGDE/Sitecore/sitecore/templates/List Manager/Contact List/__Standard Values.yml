@@ -1,0 +1,33 @@
+﻿---
+ID: "57ce27f4-5806-4003-a1d1-66618a110ee4"
+Parent: "8288d4ea-6576-486f-aaec-4680329a2d5c"
+Template: "8288d4ea-6576-486f-aaec-4680329a2d5c"
+Path: /sitecore/templates/List Manager/Contact List/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/32x32/cube_blue.png
+- ID: "08b40ff0-f812-4dcf-83a8-f05e493831f9"
+  Hint: UseAllDatabase
+  Type: Checkbox
+  Value: 0
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Type: Checkbox
+  Value: 1
+- ID: "63087a5b-2ea8-4f1b-811b-a82c0ecf52af"
+  Hint: Recipients
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140414T103417
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

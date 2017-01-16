@@ -1,0 +1,47 @@
+﻿---
+ID: "3349b80f-035c-4ba5-b297-1b294216a5f0"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-tryproduct"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3349B80F035C4BA5B2971B294216A5F0.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "cea0ae7a-83a3-48eb-8caa-c938b2e984e2"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACFklEQVR42u2Zy0rDQBSGq6KCbsWF+ATeXkDXQjGTouADCLb6AroSOp24605BEERdB0FQ7Ewq7sSVCy+4EFfiGxS68hLPpLWUkrRpkkkzMQM/LSQz+b9k5py5pFJJSUpwBWNcBH2CzIiKeyu2A4iy+QZEOwBTBrkCCKA74qb2cADtJQD/C0BAhAwHIL1XGka7dAFpdEMhdIdLJUZOJeV5fi2yABlyNQumTxFhFZDpoArS2DH8TkcGYLFojCoFdgCmvtsYb9WXQtg+wpcjPQVI49IkIsZTF8Zb9aDmyxM9AVjOG+Ng4M2HeUsqYa/wJcZCBYDr/YjQG7/mm1ROmWZfaADQ57MBmrcEba6FArCK9SH47B9BA4Dec4f3g8IBVI2uCDBfGw8aVYUDwINORAEgzTgKA+BFGACE5MAAbITrAFVxAKxiMxH0th6wBYBQJ9C8laHFAsj0BaQfA7GNQtLnAekzsfRzoVjMRqVfD8RiRRaLNbEVlXR9wOuuxF/dngEsYWMGDD1DAtL5f7f7QmqezgHEGdR9zODSVE8AwMB6y7zoByLTraLRLcckSNg23HdXu7dRr9ophAYKYL3hWjdw7ONOe6OdphE8SQoF4APWTfz3BMCTGWHXTgPbP4C1FqAXbqKMV4C6zu2Smm8AeDubbsOkTwA+rcgKAVALFLuRE4Db+jxqJQccsh7ySX/MKvdBd1KS0n35BXqeEGYH303BAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 591
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141531Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Try product

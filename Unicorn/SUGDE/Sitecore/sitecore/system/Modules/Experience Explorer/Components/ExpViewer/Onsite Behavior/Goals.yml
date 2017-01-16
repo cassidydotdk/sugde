@@ -1,0 +1,82 @@
+﻿---
+ID: "216bfc25-b59c-41e9-99bb-ff8d5f848008"
+Parent: "b575090a-38db-4d7d-bde5-e2b3d317e6ab"
+Template: "e360bed5-b72b-4c02-890f-e434486de3f1"
+Path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/Goals
+DB: master
+SharedFields:
+- ID: "64461e27-1c6a-4aa2-bda8-44e5316ef09e"
+  Hint: Method
+  Value: GetViewerOnsiteBehaviourGoals
+- ID: "ad8d5f6d-d0a3-4f86-a4e7-c29ff7427597"
+  Hint: Path
+  Value: /sitecore modules/Web/ExperienceExplorer/Controls/OnsiteBehaviour/Goal/GoalViewer.ascx
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Mål
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104326Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Mål
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ziele
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104801Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Ziele
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130401T224002
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Goals
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ゴール
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: ゴール

@@ -1,0 +1,47 @@
+﻿---
+ID: "14d5c090-717b-449a-b470-ae21944b1c46"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Register for Event
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/14D5C090717B449AB470AE21944B1C46.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "68f9707f-cd71-4843-853d-4da83adf0f80"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAz5JREFUeNrs3OFRq0AYheHFsQBLsARLiJ3Ygh3YQUpgrODagXYQO9AOtAMkYzIXHRNgv13Yb897ZvgHKjmPwC6EJtjThbxpQtlxvf8XgUgHAAAgACAAIAAgACBquVzgd4yNY7vKP+Oi958jAKcAAgACAAIAAgACACI3D1D6OLwT78i6/w1HAAIAAgACAAIAAgACADIYI3Z8DNV3zBGAAIAAgACAAIAAgACA7HPJR5A9txHbXPVL2y9P/fJ4Zr2bftla/8COJesSU/5usP3dmXU31t/PKaCs7Mt/PvxnH9OOIOAaoOLysyMAQPnlZ0UAAB/lZ0MAAD/lZ0HAMNBX+UME+7xb/4gpzwM0dFVU+cPc98vryDov1nkAkr78XcJ5BvPpAAB+y0+CAAC+yzcjAID/8k0IAFBH+dEIAFBP+VEIAFBX+bMRAKC+8mchAECd5U9GAIB6y5+EAAB1lz+KAAD1l38WAQA0yj+JAAA65f+JAABa5f9AkOKBEO9ImsjyU9zPXzPtceetD4SoAaih/GM+eSZQuPxw+NaS9RpA5Zs73s/5w+VjiBgAwuUDQLx8AIiXDwDx8pkIEi8fAOLlA0C8fACIlw8A8fIBIF6+OgD58pUBUL7IRBDlA4DyAUD58gAoXxzAA+VzCmgpn4vAlvIZBraU/x3l9wRmfQt3whyf3j31PsDnke1vcx8BvCPw/p9v7k/9ZlAbfB/2AVAhgjnnfABUhmDuBR8AKkIQc7UPgEoQxA715AFswv/353tFYBnnrw5g7a9ubQ7r/Tvc8PGGwDrJA4DBujtnCFLM8AHg1/peEKSa3gXAH9uUjiDl3D4ATmxXKoLUN3YAcGbb0hDkuKsHgJHtS0GQ65YuACb8jLURZLufz0TQNAA5SmgLKB8AMwCsgSB3+QCYCWBJBEuUD4AIAEsgWKp8AEQCyIlgyfIBYACQo6xtWP41sgAwDjPfEg8RgycAvCw6hOvw/Wj1leLOXywg0MMR5kYVAUcAcQQAEEcAAHEEABBHAABxBAAYR7AFgHbuQvrvHRQT5fcD1BJTfxwBxAMAABAAEAAQABAAELVMmQcg/jvmCEAAQABAAEAAQABAAED2+RJgAL6nXxF/J/GAAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 924
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104937
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Register for event

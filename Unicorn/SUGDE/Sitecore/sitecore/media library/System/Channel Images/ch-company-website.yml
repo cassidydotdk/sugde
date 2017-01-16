@@ -1,0 +1,47 @@
+﻿---
+ID: "ff6000dd-2854-4c27-84da-d2bff61383a4"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-company-website"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/FF6000DD28544C2784DAD2BFF61383A4.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "492f2def-1754-4746-b844-de2c20c572c2"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACjElEQVR42u1ZvYvUQBQ/xY9rtPQf8C/QRrxCTqzEJKfIgmhxxYmNgoqlhZnJXSGHosFCG0Es/ADlrtmZQcHSRhQrEQsVEW4RZOUQP06JvxfDXSY7m91iTWbXefDYMPNeeL/M730kOzbmxIkTJ9ZIHMebwzCMoW1oYplSTDHF2BVAFnxiucZlANpDAKBdBiAZBnUAHAAH4H8AYFuTrQwAfNf7odzpMzHjR+p8qnSNNdqzFkBwcXELBRtw+cHnMjFpukc2sLUKQMDk3rLATUDIxwoAHpdHoT9LAl72I3kXv638OvmQb60A6CkWg8fTvQWanM2tvW+E9zcduqC2wf5aHgj59nsSAwdAPDbRhgBMzaoJn6urHlP+/rC5NbWP5IvVPCjSqY+cGDiAtLoYKOMxeUWjWCQmsf4Y+g36y0gz3KtSAFQODU//U8DFkcnwyQYNKJOH6VQCJho4kWOwe2tK6l4ldqAA0jqvB/FliqtdHYZJsg57D1btmLoOKp0D9x91nALuWR0Aakx6AMe7JPmBHiX18xo4MVMdAJ3/P0CP0EQBUONUSfDPEfTlfvPgnwEIuHqY8fi1x8Q+HUBzB/Z+dwHwBjpXDwCdQvegH7Pr70EkAg3ErNrjRfIk9l4VGhkaoLpTD4X0JG6h094sVJVLHT5cnsl3Z1Srca07V5nExTKKynIav+9yAS50JrRorO2r2wFT07WVUUMiL+XKpbGkelzszletzKeeRtZllFiGfj0YNbcbHagnMPWUOjUo97L2UcI0zP0dztT0iRvPNhZtaS2jzZIVw1yPcbqVjdBUJueyamPfOD0SLzQj8Uo5Ei/11n1WGdYPWytDAGClDMC85SAotnn3Z6ATJ07skT+J1F1iS74lKwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 709
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141535Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Company website

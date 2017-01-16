@@ -1,0 +1,18 @@
+﻿---
+ID: "d000d0fb-cb4f-4a95-8230-195b68c0e338"
+Parent: "3be6aa8c-0af4-4785-99ed-1f724fe41f70"
+Template: "3be6aa8c-0af4-4785-99ed-1f724fe41f70"
+Path: /sitecore/templates/System/Experience Analytics/BaseSegment/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140613T152456
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

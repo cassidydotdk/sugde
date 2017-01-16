@@ -1,0 +1,82 @@
+﻿---
+ID: "9b1a61f1-8716-41f0-9fc7-3c3757ee5e6d"
+Parent: "d01396f8-6a55-4a4e-acb9-8023fda0dd26"
+Template: "f0d16eee-3a05-4e43-a082-795a32b873c0"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Contact Has Registered Outcome During Any Interaction with Value
+DB: master
+SharedFields:
+- ID: "ab51c8b2-f0e1-4471-9aae-cc080d774923"
+  Hint: Type
+  Value: Sitecore.Analytics.Outcome.Rules.ContactHasRegisteredOutcomeDuringAnyInteractionWithValueCondition,Sitecore.Analytics.Outcome
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kontakt har registreret resultat under interaktion med værdi
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104344Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "hvor den aktuelle kontakt har registreret [OutcomeDefinitionId,Tree,root=/sitecore/system/Marketing Center/Outcomes,outcome] under en interaktion, hvor den monetære værdi [operatorid,Operator,,compares to] [value,Decimal,,value]"
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kontakt verzeichnet Ergebnis während jeder Interaktion mit Wert
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "wo der aktuelle Kontakt [OutcomeDefinitionId,Tree,root=/sitecore/system/Marketing Center/Outcomes,outcome] registriert hat, während der Interaktionen, wo der monetäre Wert [operatorid,Operator,,compares to] [value,Decimal,,value]"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090202T181600
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "where the current contact has registered the [OutcomeDefinition,Tree,root=/sitecore/system/Marketing Control Panel/Outcomes&selection=System/Analytics/Outcome/Outcome Definition,outcome] during any interaction where monetary value [operatorid,Operator,,compares to] [value,Decimal,,value]"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: バリューを持つインタラクション中にコンタクトが結果を記録しました
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105226Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "条件： 通貨値が [value,Decimal,,値] [operatorid,Operator,,と比較する] インタラクションで [OutcomeDefinitionId,Tree,root=/sitecore/system/Marketing Control Panel/Outcomes,結果] を登録した場合"

@@ -1,0 +1,18 @@
+﻿---
+ID: "4b1a43b6-8c29-4e3e-8825-bc4606d2ee79"
+Parent: "b58f5b56-1633-4798-9be0-f5dbb1af0f38"
+Template: "b58f5b56-1633-4798-9be0-f5dbb1af0f38"
+Path: /sitecore/templates/System/Social/Network/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111013T182511
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

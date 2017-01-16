@@ -1,0 +1,18 @@
+﻿---
+ID: "6d70e60b-ab46-45cf-9a6a-158272e4b8f6"
+Parent: "5cd3b26d-8be0-4c89-b5a4-a0b13b2a996f"
+Template: "5cd3b26d-8be0-4c89-b5a4-a0b13b2a996f"
+Path: /sitecore/templates/System/Social/Sharing/SharingControlParameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111018T123339
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

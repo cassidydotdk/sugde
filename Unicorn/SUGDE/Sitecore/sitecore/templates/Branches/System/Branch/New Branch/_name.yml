@@ -1,0 +1,22 @@
+﻿---
+ID: "03a2af64-aa00-4a60-b8c4-20a530e3e487"
+Parent: "ac90a0f0-6618-485b-b03d-64d3e7500d01"
+Template: "b2613cc1-a748-46a3-a0db-3774574bd339"
+Path: /sitecore/templates/Branches/System/Branch/New Branch/$name
+DB: master
+SharedFields:
+- ID: "854cc8f6-94ad-4521-a4b6-44ed8f794c98"
+  Hint: Command
+  Value: "masters:new"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20070830T164604
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

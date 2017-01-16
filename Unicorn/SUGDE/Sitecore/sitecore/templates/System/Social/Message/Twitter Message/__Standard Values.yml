@@ -1,0 +1,18 @@
+﻿---
+ID: "8b585e1e-ef1a-4209-b7ba-f8a332b0471f"
+Parent: "e28734ca-89eb-4530-b0e4-b81f6645a372"
+Template: "e28734ca-89eb-4530-b0e4-b81f6645a372"
+Path: /sitecore/templates/System/Social/Message/Twitter Message/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111004T151300
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

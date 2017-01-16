@@ -1,0 +1,26 @@
+﻿---
+ID: "09f79b79-3181-48d7-8c3c-fc0eb4ba6ce7"
+Parent: "8ec9cdfb-34b0-4a8d-943b-d28b05bd3d75"
+Template: "8ec9cdfb-34b0-4a8d-943b-d28b05bd3d75"
+Path: /sitecore/templates/System/Content Testing/Personalization Test Variable/__Standard Values
+DB: master
+SharedFields:
+- ID: "45ad36c2-be5b-4bfc-b2d2-32455c0bd653"
+  Hint: Test Type
+  Value: "{8B91C434-5AC1-422D-A2E7-44D2DA817753}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140307T050636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,82 @@
+﻿---
+ID: "1c9d09bb-75a3-4573-ba20-9efc0a296152"
+Parent: "2f6fb150-d8d8-4d62-bcae-9e58a71145bd"
+Template: "e360bed5-b72b-4c02-890f-e434486de3f1"
+Path: /sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/PageEvents
+DB: master
+SharedFields:
+- ID: "64461e27-1c6a-4aa2-bda8-44e5316ef09e"
+  Hint: Method
+  Value: GetEditorOnsiteBehaviourPageEvents
+- ID: "ad8d5f6d-d0a3-4f86-a4e7-c29ff7427597"
+  Hint: Path
+  Value: 
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sideevents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104325Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Sideevents
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Seitenevents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Seitenevents
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130401T224002
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: Page Events
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ページ イベント
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "804e29ad-9cff-4d31-b4d4-b5a6daed990b"
+      Hint: Tab Name
+      Value: ページ イベント

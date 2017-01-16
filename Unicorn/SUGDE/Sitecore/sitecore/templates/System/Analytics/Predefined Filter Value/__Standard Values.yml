@@ -1,0 +1,18 @@
+﻿---
+ID: "7e7c5388-a288-42b3-9c6a-b645b4612587"
+Parent: "8749f3d5-3eb9-43d8-8ac5-dfdcaec19489"
+Template: "8749f3d5-3eb9-43d8-8ac5-dfdcaec19489"
+Path: /sitecore/templates/System/Analytics/Predefined Filter Value/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090818T190212
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

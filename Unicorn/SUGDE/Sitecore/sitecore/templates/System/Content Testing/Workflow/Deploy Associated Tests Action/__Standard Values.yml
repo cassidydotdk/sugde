@@ -1,0 +1,106 @@
+﻿---
+ID: "4ee72570-e022-4f2d-bc60-003f5c35513a"
+Parent: "ad783557-3277-4e30-960b-d0235bae8a61"
+Template: "ad783557-3277-4e30-960b-d0235bae8a61"
+Path: /sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/16x16/documents_exchange.png
+- ID: "a291a22b-99e2-46bb-a27b-8ec744275396"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Workflows.DeployAssociatedTestsAction, Sitecore.ContentTesting
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7990fad8-ac75-4d29-a48d-1ed6d29e8c63"
+      Hint: Personalization Test Workflow Command
+      Value: Anvend
+    - ID: "7cc778c7-f723-4f5e-acaa-3edbeb7d1102"
+      Hint: Page Level Test Workflow Command
+      Value: Anvend
+    - ID: "e3d977a8-d095-4890-9f48-23bed9e9deb4"
+      Hint: Multivariate Test Workflow Command
+      Value: Anvend
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104808Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7990fad8-ac75-4d29-a48d-1ed6d29e8c63"
+      Hint: Personalization Test Workflow Command
+      Value: Einsetzen
+    - ID: "7cc778c7-f723-4f5e-acaa-3edbeb7d1102"
+      Hint: Page Level Test Workflow Command
+      Value: Einsetzen
+    - ID: "e3d977a8-d095-4890-9f48-23bed9e9deb4"
+      Hint: Multivariate Test Workflow Command
+      Value: Einsetzen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0343a676-3946-4deb-9d95-8ebd384fd1be"
+      Hint: Deploy Associated Page Level Tests
+      Type: Checkbox
+      Value: 1
+    - ID: "13cc3c50-b20d-4310-aa06-791193e160fd"
+      Hint: Deploy Associated Multivariate Tests
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140123T180604
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7372f0ec-6e3f-4674-b76d-06f4876b4f6b"
+      Hint: Deploy Associated Personalization Tests
+      Type: Checkbox
+      Value: 1
+    - ID: "7990fad8-ac75-4d29-a48d-1ed6d29e8c63"
+      Hint: Personalization Test Workflow Command
+      Value: Deploy
+    - ID: "7cc778c7-f723-4f5e-acaa-3edbeb7d1102"
+      Hint: Page Level Test Workflow Command
+      Value: Deploy
+    - ID: "e3d977a8-d095-4890-9f48-23bed9e9deb4"
+      Hint: Multivariate Test Workflow Command
+      Value: Deploy
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105213Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7990fad8-ac75-4d29-a48d-1ed6d29e8c63"
+      Hint: Personalization Test Workflow Command
+      Value: 配置
+    - ID: "7cc778c7-f723-4f5e-acaa-3edbeb7d1102"
+      Hint: Page Level Test Workflow Command
+      Value: 配置
+    - ID: "e3d977a8-d095-4890-9f48-23bed9e9deb4"
+      Hint: Multivariate Test Workflow Command
+      Value: 配置

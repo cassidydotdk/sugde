@@ -1,0 +1,18 @@
+﻿---
+ID: "347d69ca-26ff-4d04-b0ce-d61c01d8a72e"
+Parent: "029e31ac-4f70-4e7e-bb77-7123eb9ef5ad"
+Template: "029e31ac-4f70-4e7e-bb77-7123eb9ef5ad"
+Path: /sitecore/templates/System/Social/Connector/Login Button Parameters for Klout/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140519T145322
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "451c448d-41df-401c-b321-f554934f6306"
+Parent: "696fac52-92b8-4ff0-9f9e-e8b997110469"
+Template: "a90f48c4-4d4f-41d7-8497-070a9a50304e"
+Path: /sitecore/system/Settings/Content Testing/Report Queries/Reach By Test Id
+DB: master
+SharedFields:
+- ID: "72b1c86f-ae19-4534-abcf-0692378d41cf"
+  Hint: Data Source
+  Value: reporting
+- ID: "a61cc636-3272-4fb6-bcf9-762940047a78"
+  Hint: Query
+  Value: |
+    SELECT
+           [TestSetId]
+          ,[TestValues]
+          ,[Visitors]
+    FROM
+          dbo.[Fact_MvTesting]
+    WHERE
+          [TestSetId] = @TestId
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140424T222828
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

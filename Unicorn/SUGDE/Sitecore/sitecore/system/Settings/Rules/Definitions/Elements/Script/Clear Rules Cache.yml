@@ -1,0 +1,73 @@
+﻿---
+ID: "5862787e-dd1b-4555-9c1c-4efad12afd51"
+Parent: "bd93e442-6e11-4ea0-977d-75c1804f0aa6"
+Template: "ab6dd55d-75e3-4a02-9793-7054ed90fcb6"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Rules Cache
+DB: master
+SharedFields:
+- ID: "c5770705-c48e-4e7c-ae1f-9d1d8cad4358"
+  Hint: Language
+  Value: CSharp
+- ID: "cf38a704-11e9-41ae-ac2d-e229bca83bf5"
+  Hint: Code
+  Value: |
+    <%
+    Sitecore.Rules.RuleFactory.InvalidateCache();
+    %>
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tøm regelcache
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104334Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Regel Cache löschen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20081203T114229
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ルール キャッシュのクリア
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

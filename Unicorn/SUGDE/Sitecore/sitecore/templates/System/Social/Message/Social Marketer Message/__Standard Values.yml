@@ -1,0 +1,18 @@
+﻿---
+ID: "763a4a9f-da95-497f-aa74-20c68d0afd3e"
+Parent: "06751e29-d91b-423c-a2e1-e54afd4f8f0b"
+Template: "06751e29-d91b-423c-a2e1-e54afd4f8f0b"
+Path: /sitecore/templates/System/Social/Message/Social Marketer Message/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130712T104740
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

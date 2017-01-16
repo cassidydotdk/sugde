@@ -1,0 +1,79 @@
+﻿---
+ID: "6a6e9e4f-db9e-43bc-b151-0430ed777af9"
+Parent: "986a59ff-202c-4ca0-9a4c-64907e92b3c6"
+Template: "f0d16eee-3a05-4e43-a082-795a32b873c0"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Venue/Current Interaction is at venue group condition
+DB: master
+SharedFields:
+- ID: "ab51c8b2-f0e1-4471-9aae-cc080d774923"
+  Hint: Type
+  Value: Sitecore.Analytics.Rules.Conditions.Venue.CurrentInteractionIsAtVenueGroupCondition, Sitecore.Analytics
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Den aktuelle interaktion er på stedgruppe, betingelse
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "når den aktuelle interaktion er på et sted i [VenueGroup,Tree,root=/sitecore/system/Marketing Control Panel/Taxonomies/Venue&selection=System/Analytics/Marketing Taxonomy/Venue/Venue Group, specified] stedgruppe"
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Aktuelle Interaktion ist bei der Ortsgruppenbedingung
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "wo die aktuelle Interaktion an einem Ort in der [VenueGroup,Tree,root=/sitecore/system/Marketing Control Panel/Taxonomie/Venue&selection=System/Analytics/Marketing Taxonomy/Venue/Venue Group, specified] Ortsgruppe ist"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150619T071509Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "when the current interaction is at a venue in the [VenueGroup,Tree,root=/sitecore/system/Marketing Control Panel/Taxonomies/Venue&selection=System/Analytics/Marketing Taxonomy/Venue/Venue Group, specified] venue group"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 現在のインタラクションの場所グループ条件
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105218Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "条件： 現行のインタラクションが [VenueGroup,Tree,root=/sitecore/system/Marketing Control Panel/Taxonomies/Venue&selection=System/Analytics/Marketing Taxonomy/Venue/Venue Group, 特定の] 場所グループの場合"

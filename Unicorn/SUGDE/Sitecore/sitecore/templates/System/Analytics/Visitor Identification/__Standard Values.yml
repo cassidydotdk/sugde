@@ -1,0 +1,26 @@
+﻿---
+ID: "8273fa5d-090a-439c-a1e3-e0f787dde5c0"
+Parent: "8aad3a0b-c9a6-4da7-ab73-a54df249b73d"
+Template: "8aad3a0b-c9a6-4da7-ab73-a54df249b73d"
+Path: /sitecore/templates/System/Analytics/Visitor Identification/__Standard Values
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{689E2994-4656-4C58-9112-7826CB46EE69}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "25c5d410-9da9-42ae-90cd-b727ba47e1c5"
+    Hint: Header
+    Value: $name
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090818T190354
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,23 @@
+﻿---
+ID: "5006dc43-02de-40bd-82b8-5c38178d2d6b"
+Parent: "b9ba5875-36c0-48d1-8b82-6df152b7aaa6"
+Template: "b9ba5875-36c0-48d1-8b82-6df152b7aaa6"
+Path: /sitecore/templates/System/Experience Analytics/DimensionFolder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6A697493-A755-4A7B-9435-0F2076A1EE23}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140613T153242
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

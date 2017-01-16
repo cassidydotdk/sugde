@@ -1,0 +1,33 @@
+﻿---
+ID: "52b2491f-70b3-4216-a229-360cf09f3632"
+Parent: "56682fe6-9679-4b69-9589-60c99aa08bec"
+Template: "56682fe6-9679-4b69-9589-60c99aa08bec"
+Path: /sitecore/templates/System/Analytics/Campaign Category/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/form_blue.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {94FD1606-139E-46EE-86FF-BC5BF3C79804}
+    {56682FE6-9679-4B69-9589-60C99AA08BEC}
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101130T091800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

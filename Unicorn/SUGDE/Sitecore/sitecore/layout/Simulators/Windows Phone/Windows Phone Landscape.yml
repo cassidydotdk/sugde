@@ -1,0 +1,80 @@
+﻿---
+ID: "967a64a6-fd7f-4336-b863-0df807245a11"
+Parent: "618da108-0f8b-44d6-9384-c3e0b29b8878"
+Template: "5cace390-e862-4acc-bfd5-2f26c5883f45"
+Path: /sitecore/layout/Simulators/Windows Phone/Windows Phone Landscape
+DB: master
+SharedFields:
+- ID: "82e5e42d-b707-4bc2-87bb-319497bd6c93"
+  Hint: Screen Width
+  Value: 640
+- ID: "89e13671-a39e-432b-bd99-cf27b7f0f90d"
+  Hint: Background Image
+  Value: |
+    <image src="~/media/9C92CD3BFE2546F68F78B0D7BFEBCFBC.ashx" mediaid="{35A4BB67-B0E2-4BB5-A962-648CD8C0C45C}" mediapath="/System/Simulator Backgrounds/Windows Phone_ landscape" />
+- ID: "a820e106-a624-4e1a-8f50-d672446cdf92"
+  Hint: Screen Offset
+  Value: 76, 45
+- ID: "ab6934af-a322-4bbe-ac3e-91f4a66bfbf5"
+  Hint: Scale
+  Value: "{85C66A5B-220A-48A2-89D1-51412B3B4124}"
+- ID: "e03fc568-58b8-44e7-a410-a25208602db4"
+  Hint: Screen Height
+  Value: 327
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Windows-telefon i liggende format"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104343Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Windows Phone Querformat
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120406T124000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Windows Phone （横長）
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105225Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

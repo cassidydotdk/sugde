@@ -1,0 +1,18 @@
+﻿---
+ID: "0feaa5f3-1eff-43f0-a0ff-a6da8a2b96e2"
+Parent: "200974f3-f990-4554-b4b3-c2cf288b7d76"
+Template: "200974f3-f990-4554-b4b3-c2cf288b7d76"
+Path: /sitecore/templates/System/Path Analyzer/ReversableMap/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150708T215519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "67204abe-603f-4ae3-8992-b04584a7a62c"
+Parent: "dd67a88f-282c-454f-aadd-1a6339fd6844"
+Template: "96c8e5dd-63c3-496b-a97c-a3e37e1dacba"
+Path: /sitecore/templates/Branches/System/Rules/Taxonomy/Tags/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120807T142726
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

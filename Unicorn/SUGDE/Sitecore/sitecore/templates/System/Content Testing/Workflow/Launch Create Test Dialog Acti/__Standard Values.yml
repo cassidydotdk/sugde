@@ -1,0 +1,29 @@
+﻿---
+ID: "7f37a576-12e9-460d-bce7-4ea47da9ec6e"
+Parent: "dc773c4f-df6c-4ff0-927d-bc4069003687"
+Template: "dc773c4f-df6c-4ff0-927d-bc4069003687"
+Path: /sitecore/templates/System/Content Testing/Workflow/Launch Create Test Dialog Action/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/16x16/scientist.png
+- ID: "a291a22b-99e2-46bb-a27b-8ec744275396"
+  Hint: Type
+  Value: Sitecore.ContentTesting.Workflows.LaunchCreateTestDialogAction, Sitecore.ContentTesting
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140219T142440
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "df0cf3aa-9aef-4ced-9b51-8b105a705698"
+      Hint: Create Suggested Tests If No Wizard
+      Type: Checkbox
+      Value: 1

@@ -1,0 +1,47 @@
+﻿---
+ID: "4fbaac96-0788-437d-96a7-83544358da69"
+Parent: "587f00ad-d60c-440b-b23f-6d55abc094a8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Channel Images/ch-facebook"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/4FBAAC960788437D96A783544358DA69.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "c432c02e-ed29-4d73-8a79-641930c0d54a"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAtNJREFUeNrsWs1r02AcfvLdpF9rp7XSTdlgDOZBd9CBohdFQWEHQbzpXf8FPek/4W4KHrx6cujAixcFp5cNNhVk1o/OUdpu7dK0ie8vo7guqQusTVPMr4SWvEn7e948z/M+CeUsy8IgF48BrxBAv0vcu2P2wfwae0sEtN/y8/tXRv8JgNVhtikBBaB4oZAeYMbooYgDL+JeF8cBTdPC1nYD2/Wm/ZnKYi+eBlnFVAkJtrXGAgPApMb1BlRFxIUTWUzmhpCKKxAFHo2mCd0wQcng7UoB71bWoUXEYADg2MzW6g3Q/F6eHsH1s2MYz8YhCe4MTmoyXi7mgwGAWKEbTZsed65OYXbm+L7nEJ3ABUTEpglUdQO3L054ap6KuM8FwYWoieKmjjMTGdw4N+75PIHn4DUk95RCBpt+RRZw6dSILVS3sp3Iap/xGtvH81z/AdSZq+TSUZwcSzvHGiaevl7Fqw95GMyBWhZKRY50ZCjSfwDUSFKTcDStOcYWPubxeGEVdGFkUWjnNZt9UfBGo54CoHVIEt2p8+VX2RZ3NqW5O5EVEBfqCK65A3BgsxBRnuMGGEDgwhzN5iYLaOYuXpSrdTv7dLLP0lYdsYjkGJOZblRZZBTzMcxRurx3cxqjh2J/V1TmQp3yzC22Ml87fcxV5G+WfmLuxTKGExH/ADSaFqZGU8y/VU/HZ5KqvbnV+8+/7cXNVw0QhSo148DfQ3H60/cSFEkYTBGTjn4Uq5AF3l8AdMXjqtSFxc/Ct40q04bgrwvR0r+0VmyjUUvEu4XdqkKpho2y7hDx10IFFeZemiL6CyDKGn34bLHNRilKz0xm8OjuecfxT1gOmptfRm446shBUcV7W2I3KbT3h+nGpFMzERazk1H5wLQLnwuFAEIAIYAQQAggBBAC6DIAJcD9KvuGORbK1gWBS+zEYasrjz66WGXHnWD4X4kQwH8O4I8AAwA+AfdDjN9rVQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 817
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150123T141529Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Facebook

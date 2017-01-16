@@ -1,0 +1,97 @@
+﻿---
+ID: "618da108-0f8b-44d6-9384-c3e0b29b8878"
+Parent: "39522e9a-9b6e-4cb4-850c-23d0d3adfd0c"
+Template: "642f544c-e1e6-491e-93a4-8e9353079dbe"
+Path: /sitecore/layout/Simulators/Windows Phone
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/smartphone.png
+- ID: "4e678fc0-8d35-4ab7-bb49-156f33c8b955"
+  Hint: User agent
+  Value: "Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 920) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537"
+- ID: "82e5e42d-b707-4bc2-87bb-319497bd6c93"
+  Hint: Screen Width
+  Value: 384
+- ID: "89e13671-a39e-432b-bd99-cf27b7f0f90d"
+  Hint: Background Image
+  Value: |
+    <image src="~/media/63EA428F83C34F95BED587FC267652B4.ashx" mediaid="{1ACE1D95-D802-4085-9621-ACD0108C5B03}" mediapath="/System/Simulator Backgrounds/Windows Phone" />
+- ID: "a820e106-a624-4e1a-8f50-d672446cdf92"
+  Hint: Screen Offset
+  Value: 41,76
+- ID: "ab6934af-a322-4bbe-ac3e-91f4a66bfbf5"
+  Hint: Scale
+  Value: "{85C66A5B-220A-48A2-89D1-51412B3B4124}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image src="~/media/63EA428F83C34F95BED587FC267652B4.ashx" mediaid="{1ACE1D95-D802-4085-9621-ACD0108C5B03}" mediapath="/System/Simulator Backgrounds/Windows Phone" />
+- ID: "e03fc568-58b8-44e7-a410-a25208602db4"
+  Hint: Screen Height
+  Value: 583
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Windows-telefon"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Windows Phone
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104811Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Windows Phone™
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120406T094200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Windows Phone
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105216Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

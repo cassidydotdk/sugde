@@ -1,0 +1,90 @@
+﻿---
+ID: "e72256cf-af7d-4fed-958d-23b8a956a429"
+Parent: "daa53ca5-8136-462f-8b2a-f66365be1238"
+Template: "a90f48c4-4d4f-41d7-8497-070a9a50304e"
+Path: /sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags
+DB: master
+SharedFields:
+- ID: "72b1c86f-ae19-4534-abcf-0692378d41cf"
+  Hint: Data Source
+  Value: reporting
+- ID: "a61cc636-3272-4fb6-bcf9-762940047a78"
+  Hint: Query
+  Value: |
+    select *
+    from
+    		(
+    			select
+    				[VisitorId],
+    				MAX(CASE WHEN [TagName] = 'Email' THEN [TagValue] ELSE NULL END) [Email],
+    				MAX(CASE WHEN [TagName] = 'First Name' THEN [TagValue] ELSE NULL END) [First Name],
+    				MAX(CASE WHEN [TagName] = 'Second Name' THEN [TagValue] ELSE NULL END) [Second Name],
+    				MAX(CASE WHEN [TagName] = 'Company' THEN [TagValue] ELSE NULL END) [Company],
+    				MAX(CASE WHEN [TagName] = 'Organization' THEN [TagValue] ELSE NULL END) [Organization],
+    				MAX(CASE WHEN [TagName] = 'Full name' THEN [TagValue] ELSE NULL END) [Full name],
+    				MAX(CASE WHEN [TagName] = 'StateProvince' THEN [TagValue] ELSE NULL END) [StateProvince]
+    			from
+    				[VisitorTags]
+    		group by [VisitorId]
+    	) pvt, [Visits]
+    where
+    	 [Visits].[VisitorId] = pvt.[VisitorId]
+    	 AND [Visits].[VisitId] = @VisitId
+    
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Besøg, besøgendes tags
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Besuche Besucher Tags
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T104832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110325T133545
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ビジター タグの訪問数
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T105238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

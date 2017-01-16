@@ -1,0 +1,22 @@
+﻿---
+ID: "18c9ce30-76a1-45ce-91b2-dadbb0b94d0b"
+Parent: "db14b596-67dd-4c93-be7c-2bdbadeb64c2"
+Template: "5986d8c8-3a31-4160-a816-acaa26dfb54f"
+Path: /sitecore/system/Settings/Buckets/Tab Options/Close Tab
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161031T123028Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

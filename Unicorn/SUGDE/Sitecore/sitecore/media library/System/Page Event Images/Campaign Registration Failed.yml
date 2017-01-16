@@ -1,0 +1,47 @@
+﻿---
+ID: "a3e77045-7f17-4efc-9332-1ee28ad97417"
+Parent: "b43afd99-afe1-4a6d-a4b2-3844be73c9be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Page Event Images/Campaign Registration Failed
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A3E770457F174EFC93321EE28AD97417.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2e0ae66e-bc7d-4e03-bda6-7817083b24be"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABXhJREFUeNrsnY9x0zAUxl+5DuANmhG8QcUEZQM0QtggTFCYwDBBywQpEyQbJBskG4B9lcGYpJYtvad/33en63FtSKzvp/ekZ1khgkpT3bbHth3a9gvdUYY+tK0ZmD5sUIaq2qaN6acLpgOAjE1/mjAcAGSkVdvWbdvNNB0AZDCJczEdACQ4iXu8MokDAJmP9hOD6X/aO/Rx9BO7ivMNAEDhAgAAAAIAEACAAABUoG7RBdEu/7riz4PF335+43d39Hp/AEpAipaVeKf+zzdfjwgQTrUx6N6MdqSAQsL6vTF+hTlAGWH9wfysMQlEWAcACOsAAGEdACSl1WiUV4Lvvc8BslTD+rVt1JxtZ2oBynYdjzqAv7Deh3bJEXds20vbfrbtuW1npID8w/qzMfzFhHjMAYTC+nDyJjlb3xuzf5ifmARmHtbPo1F+xCog/7A+HOH7lDotZQD6sN5X3UKE9X7ylnQdYNO2LyFmoAtUj0Y5wroHdevBkwGhiuyzdaNa0+sDj6wPSFxoW3p97i5kIYa9DkCjf4QGoS/CcD0GZVOEiekmjjgAIUCozXtthQ3vrrExEWYVaXQOBgAnCKWH9aQA8AFCyLB+iDCsJwnAXBBChvWnyMN60gBcA6EP602gsL6hPG+bRgvAEIRdwLBeUd5iB8C1ElgJjLzzqNR6JMhrJTBGDcuse9iUPwDHUan1DGvyBgBhvUAA9sZwhPVCADiORjnCeuYAnEeTN4T1QgD41rbvFOF+N2haPk4IgfmFAwABAAgAQAAAAgAQAIBKqwN8JNk9+iXpzuJvNi6vvyF8awRSAAQAIAAAAQAIAEAAAAIAEACAAAAEACAAAAEACABAAAACAP+pexjkiG5MV7cOxn+lvwdMrujfw5hzOrjhE2X+LCPnGUHSp4dwNJV7FJA4JWwHANIEwNc5gYgAiQHg84BIZdHJ3eli2wwBqEn+9DLlAgDHyaAbi06uBuki1KGSvgGoTX+eBCHQgwE1CwDOs4GnRvbujdeuKNyxsi4A1KPPKwGBvhBVrUco57JtqoMfZ4Y36dWFcjRfAgL9RmoNKpv8v/QcX6nv91MezOeEQFvMr4JpTv53VZcu1gzpQnkynwMCbXkNwSBwyf8+oo+PdKE8mu8TAj3zOoJA4DP/u8glXSjP5vuAQC+EWRQCzvwvmS4Ug/kuEGjHiCYGgU3+T6EUrpjMXwKBJj/zmiYGALYRmK8WAuDL/DkQaPK7umkAwLIo5dt8Gwg08Sxxm5A7glYRAHA/8fsXwc9SmUFRXzC/oQS1jngSaJv/N8z5fyoScI18kRSgLC9WJ5b/pSDYpGx+L9sOOpD8lzj6WKVwQpC8+eRA8RAIrhtVUxVC20lqShCIzyUqT50z/F7fytPnWpr/U4Ug2ESSYyLjCsQHkrsNXLT5vRrmC+yBUJ7C/9IqZYwQRLOEbAQvuv82UXWh9vBk+XrKAILo6gc6UOdsad6m07XjdcYAQbTFo8qMzgPFO2HysRQNCUEylcOaeHbxuLRHz9d3gvnzgQj1jMCBoe4gCUHS5l8r126EgODctSsBQXbmSwIhsW9/wwxATQWqf4rIZePnVuD+g048giWhaiYQW5J58FPC/MUQ3GQOhLrQId1hDy8k813GOkBu7q7rPeELuqMoeoVayhafDko2HxDAfEAA8wEBzAcEMB8QwHxAAPMBQXLmNyT38AkUofm9AEGEUiR7S5cbAmiBGpK9n88FgYaVcUBgc8PINwQwPxII5twt9AUBzI8EgiW3il0hgPmRQOCyT2ApBDA/Egh8bBKZCwHMjwQCnzuEbCGA+ZFAwLE9bAoCmB8JBJx7A69BAPMjgUBiY+gYApgfCQSSu4J7CKzN/y3AAAxidifz+wRSAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1494
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140213T104935
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Campaign registration failed

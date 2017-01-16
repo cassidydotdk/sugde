@@ -1,0 +1,42 @@
+﻿---
+ID: "cfd44297-445e-4311-bc9a-2589dd7512d1"
+Parent: "28aa9cbe-907b-4174-84ca-8b745ccbe94f"
+Template: "a90f48c4-4d4f-41d7-8497-070a9a50304e"
+Path: /sitecore/system/Settings/Content Testing/Report Queries/Deprecated/MV Test Visits by Test Id And Test Values
+DB: master
+SharedFields:
+- ID: "72b1c86f-ae19-4534-abcf-0692378d41cf"
+  Hint: Data Source
+  Value: reporting
+- ID: "a61cc636-3272-4fb6-bcf9-762940047a78"
+  Hint: Query
+  Value: |
+    SELECT
+    	 [Visits]
+    	,[Value]
+    FROM
+    	dbo.[Fact_MvTesting]
+    WHERE
+    	[TestSetId] = @TestId
+    	AND [TestValues] = @TestValues
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140602T153022
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140602T153022
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
