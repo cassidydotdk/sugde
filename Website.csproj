@@ -75,6 +75,7 @@
       <HintPath>bin\System.Net.Http.Formatting.dll</HintPath>
     </Reference>
     <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.Web.Cors">
       <HintPath>bin\System.Web.Cors.dll</HintPath>
@@ -148,6 +149,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomContext\AddResultsAction.cs" />
+    <Compile Include="CustomContext\QueryContains.cs" />
+    <Compile Include="CustomContext\ResultsContext.cs" />
+    <Compile Include="CustomContext\ResultsController.cs" />
     <Compile Include="InsertRules\MaxFiveSectionsUnderSiteRoot.cs" />
     <Compile Include="InsertRules\SectionsUnderSiteRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -157,12 +162,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\Main.cshtml" />
+    <Content Include="Views\Results.cshtml" />
     <None Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="App_Config\Include\Rainbow.config" />

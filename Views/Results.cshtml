@@ -1,0 +1,9 @@
+﻿@using Sitecore.Data.Items
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+<ul>
+	@foreach (Item item in Model)
+	{
+		<li>@item.Paths.FullPath</li>
+	}
+</ul>
