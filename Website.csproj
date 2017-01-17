@@ -151,6 +151,7 @@
     <Compile Include="InsertRules\MaxFiveSectionsUnderSiteRoot.cs" />
     <Compile Include="InsertRules\SectionsUnderSiteRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RulesEngine\MaxSectionsAllowed.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\Main.cshtml" />
