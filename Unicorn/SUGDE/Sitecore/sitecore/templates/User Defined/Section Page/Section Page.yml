@@ -1,0 +1,18 @@
+﻿---
+ID: "aad4ee87-334d-4bd0-af48-43b3c1e61d78"
+Parent: "d91b7d1b-449b-466e-afd5-273c866827f1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/Section Page/Section Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/maps.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T132349Z

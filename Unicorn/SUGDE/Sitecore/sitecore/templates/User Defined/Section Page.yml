@@ -1,22 +1,19 @@
 ﻿---
-ID: "f3bd9b30-2774-4a12-a58f-71708eee6946"
+ID: "d91b7d1b-449b-466e-afd5-273c866827f1"
 Parent: "b29ee504-861c-492f-95a3-0d890b6fca09"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/User Defined/Site Root
+Path: /sitecore/templates/User Defined/Section Page
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Apps/32x32/Warehouse.png
+  Value: Apps/32x32/Maps.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Type: tree list
   Value: |
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {C7824D8A-BA4A-4FF1-A3EB-A7478CA88B3C}
-- ID: "f7d48a55-2158-4f02-9356-756654404f73"
-  Hint: __Standard values
-  Value: "{CA191013-C443-40AA-A609-CF5493686D48}"
 Languages:
 - Language: en
   Versions:
@@ -24,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170116T181714Z
+      Value: 20170117T132224Z

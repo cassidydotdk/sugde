@@ -1,0 +1,18 @@
+﻿---
+ID: "c71a7b70-c549-4914-bab1-8ebfb645eea0"
+Parent: "c7824d8a-ba4a-4ff1-a3eb-a7478ca88b3c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/Page/Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/workbox.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T132328Z

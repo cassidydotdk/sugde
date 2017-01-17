@@ -1,0 +1,14 @@
+﻿---
+ID: "fc41f102-d16f-479b-82a3-007b39b8d490"
+Parent: "083cc92d-03b7-46fb-bce2-1c9ddaeb89de"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Insert Rules/SUGDE
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T133845Z

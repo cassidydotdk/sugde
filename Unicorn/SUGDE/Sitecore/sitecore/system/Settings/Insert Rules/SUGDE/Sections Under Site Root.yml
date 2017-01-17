@@ -1,0 +1,22 @@
+﻿---
+ID: "7c566fbf-4b86-45d2-9d83-6ec5371535a5"
+Parent: "fc41f102-d16f-479b-82a3-007b39b8d490"
+Template: "b4d19d07-b3eb-4f7d-98ec-8bcb41ccc58e"
+Path: /sitecore/system/Settings/Insert Rules/SUGDE/Sections Under Site Root
+DB: master
+SharedFields:
+- ID: "4a6dfa44-4706-4b98-8c88-ada44f8fdb7c"
+  Hint: Type
+  Value: Website.InsertRules.SectionsUnderSiteRoot, Website
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T133951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

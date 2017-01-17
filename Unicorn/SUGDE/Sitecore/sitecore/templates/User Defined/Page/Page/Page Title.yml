@@ -1,8 +1,8 @@
 ﻿---
 ID: "b6531836-54a0-4eb9-8838-e12d7901dfdd"
-Parent: "6216db57-6df9-42fb-a089-76340147836e"
+Parent: "c71a7b70-c549-4914-bab1-8ebfb645eea0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/User Defined/Site Root/Site Root/Page Title
+Path: /sitecore/templates/User Defined/Page/Page/Page Title
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
