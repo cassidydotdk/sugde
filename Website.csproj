@@ -152,6 +152,8 @@
     <Compile Include="InsertRules\SectionsUnderSiteRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RulesEngine\MaxSectionsAllowed.cs" />
+    <Compile Include="RulesEngine\VariableSectionsAllowed.cs" />
+    <Compile Include="RulesEngine\VariableTemplatesAllowed.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\Main.cshtml" />

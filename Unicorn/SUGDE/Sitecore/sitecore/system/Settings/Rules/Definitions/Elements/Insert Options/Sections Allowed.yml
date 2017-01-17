@@ -1,5 +1,5 @@
 ﻿---
-ID: "911e263e-3f5a-478d-80e9-cc8866ab34a1"
+ID: "6ba79678-877a-4845-91cd-f2493fbcc731"
 Parent: "063ec868-948c-40f7-aa5f-0d3850dbe420"
 Template: "f0d16eee-3a05-4e43-a082-795a32b873c0"
 Path: /sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Sections Allowed
@@ -15,11 +15,11 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170117T161509Z
+      Value: 20170117T172209Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
     - ID: "af321234-4eb9-4ef5-9197-65903351939c"
       Hint: Text
-      Value: when Sections are allowed
+      Value: when Section Page is allowed

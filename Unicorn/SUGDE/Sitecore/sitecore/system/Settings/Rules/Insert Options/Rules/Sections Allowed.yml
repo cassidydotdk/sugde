@@ -1,0 +1,45 @@
+﻿---
+ID: "02b57dc7-467e-4797-afab-e27177dbbc0a"
+Parent: "ff0bc016-2d01-4f55-a020-ef6fc2fe7559"
+Template: "664e5035-eb8c-4ba1-9731-a098fcc9127a"
+Path: /sitecore/system/Settings/Rules/Insert Options/Rules/Sections Allowed
+DB: master
+SharedFields:
+- ID: "fa307b86-da2a-44bd-887d-e2057cdb4948"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{75678D12-A81D-47A2-8CDA-25C78CC1B7A7}">
+        <conditions>
+          <condition
+            id="{19D194D0-95F4-4C6F-82EA-985A5E121EE0}"
+            uid="636E72E3680640B59001FE06411DE740"
+            templateid="{D91B7D1B-449B-466E-AFD5-273C866827F1}"
+            operatorid="{E362A3A4-E230-4A40-A7C4-FC42767E908F}"
+            value="5" />
+        </conditions>
+        <actions>
+          <action
+            id="{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}"
+            uid="56594E4C21584B81BF215180DD1B442D"
+            insertoptionid="{D91B7D1B-449B-466E-AFD5-273C866827F1}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T172317Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: When Section Page is allowed
