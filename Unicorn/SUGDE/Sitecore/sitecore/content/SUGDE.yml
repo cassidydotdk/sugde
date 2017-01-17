@@ -4,6 +4,11 @@ Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "f3bd9b30-2774-4a12-a58f-71708eee6946"
 Path: /sitecore/content/SUGDE
 DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: 
 Languages:
 - Language: en
   Versions:

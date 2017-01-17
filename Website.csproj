@@ -148,6 +148,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InsertRules\MaxFiveSectionsUnderSiteRoot.cs" />
     <Compile Include="InsertRules\SectionsUnderSiteRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
