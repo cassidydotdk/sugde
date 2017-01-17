@@ -1,0 +1,44 @@
+﻿---
+ID: "ab8fbc99-ecfb-4d2e-9a81-ff3e753a19e6"
+Parent: "044f0216-2d47-46ae-a7d0-b5a3188ac7a6"
+Template: "d9bdf22f-6e17-47f3-ab64-49c717ba92da"
+Path: /sitecore/system/Settings/Rules/Custom Search/Rules/Rule
+DB: master
+SharedFields:
+- ID: "908ef45d-4940-4b6a-857d-3739ba4acf8f"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{65AD1D7F-3701-4427-A77F-48062EE40707}">
+        <conditions>
+          <condition
+            id="{FF92F6C4-3072-41B1-B71D-C75C3C6C0AB6}"
+            uid="9280CCEEE5AB4233B68AA66024D4154B"
+            operatorid="{2E67477C-440C-4BCA-A358-3D29AED89F47}"
+            value="user" />
+        </conditions>
+        <actions>
+          <action
+            id="{C9BF498A-E3B7-4B00-A8C6-7D2C2409936A}"
+            uid="4F1F5C11735E450CBD104813CD2C75A1"
+            addresultid="{0C0EBBE5-3821-43B2-9DE8-840E04914B46}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T200743Z
+    - ID: "45cf9130-802a-41be-b3eb-c02f657dcc2e"
+      Hint: Name
+      Value: Rule
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -2,7 +2,7 @@
 
 namespace Website.CustomContext
 {
-	public class RemoveResultsAction<T> : RuleAction<T> where T : ResultsContext
+	public class AddResultsAction<T> : RuleAction<T> where T : ResultsContext
 	{
 		public string AddResultId { get; set; }
 

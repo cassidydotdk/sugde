@@ -1,0 +1,19 @@
+﻿---
+ID: "84284215-f050-4ae9-ac7d-9853beba2a39"
+Parent: "7e2eeb28-8506-4d1d-8d28-a0719b6451d6"
+Template: "aa91a868-02f2-41d3-8b78-1cad91b4dcae"
+Path: /sitecore/system/Settings/Rules/Definitions/Tags/Custom Results/Visibility
+DB: master
+BranchID: "60e3e35b-cef9-4afa-9f89-204ed015ccb9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170117T195728Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
